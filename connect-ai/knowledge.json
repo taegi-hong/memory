@@ -1,1 +1,409 @@
-[]
+[
+  {
+    "id": "n17825297601955358",
+    "text": "# htg ai knowledge\n이름: Hong Taegi\n생년월일: 1987년 9월 22일\n국적: 한국\n경력: AI 개발자(20 years)",
+    "tags": [
+      "1987",
+      "htg",
+      "knowledge",
+      "이름",
+      "hong",
+      "taegi"
+    ],
+    "ts": 1782529760201,
+    "category": "general",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602035653",
+    "text": "# 📜 2026-06-19 개발 대화록\n# 📜 2026-06-19 개발 대화록\n\n_모든 명령·분배·산출물·대화가 시간순으로 누적됩니다. 두뇌가 자동 인덱싱·동기화합니다._\n\n## [11:04:46] 👤 **태기!**\n너에게 '지니' 라고 부를게\n너의 이름은 이제부터 '지니'야\n내 이름은 '태기' 야. 앞으로 태기! 라고 불러\nC:\\Users\\htg09\\project\\valuesplay\\.agent\\skill.md 파일에 저장하고 기억해.\n\n그리고 이제부터 대화하는 이력은 C:\\Users\\htg09\\OneDrive\\문서\\Obsidian Vault\\memory\\00_conversations 하위에 2026-06-19.md 이렇게 날짜 파일로 기록해.\n날짜는 현재날짜(포맷: YYYY-MM-DD)로 .md 파일로 생성하고 다음과 같은 템플릿으로 내용을 작성해.\n\n## [11:06:00] 🤖 **지니**\n알겠습니다, 태기! \n\n요청하신 이름 설정과 대화록 기록 방식을 반영 완료했습니다.\n\n1. **이름 및 사용자 정보 저장**: [skill.md](file:///c:/Users/htg09/project/valuesplay/.agent/skill.md) 파일의 페르소나 섹션에 에이전트 이름 `지니`와 사용자 이름 `태기!` 정보를 반영했습니다.\n2. **개발 대화록 기록**: 요청하신 템플릿을 기반으로 [2026-06-19.md](file:///C:/Users/htg09/OneDrive/문서/Obsidian%20Vault/memory/00_conversations/2026-06-19.md) 파일을 생성하고 대화 기록을 작성했습니다. 앞으로 대화가 진행될 때마다 지정된 형식에 맞춰 대화록을 지속적으로 업데이트하겠습니다.\n\n## [11:07:47] 👤 **태기!**\n2026-06-19.md 파일의 첫 내용은 포맷을 알려주려고 한 예시니까 기존 내용은 포맷 내용은 삭제하고 기록해\n\n## [11:08:40] 🤖 **지니**\n알겠습니다, 태기! 첫 번째 대화 기록에서 템플릿 예시(가이드) 텍스트를 제거하고 실제 대화 흐름만 남도록 정비했습니다. 또한 현재 요청 사항 및 처리 결과도 함께 이어서 기록했습니다.\n\n## [11:09:52] 👤 **태기!**\nL/T Framework의 Framework 아키텍처 다이어그램을 frontend와 backend를 나눠서 각 각 만들어줘.\n\n## [11:11:00] 🤖 **지니**\n알겠습니다, 태기! L/T Framework V3의 프론트엔드(`admin-ui`)와 백엔드(`admin-work-api` & `admin-module`)를 구분하여 각각의 아키텍처를 Mermaid 다이어그램으로 정의한 문서를 아티팩트([architecture_diagrams.md](file:///C:/Users/htg09/.gemini/antigravity-ide/brain/3ef1f016-c54e-47e0-bc7a-714769127c4a/architecture_diagrams.md))로 작성했습니다.\n\n## [11:13:24] 👤 **태기!**\n첨부한 이미지들을 참고해서 이런 형태의 이미지로 L/T Framework의 아키텍처 다이어그램을 만들어줘\n\n## [11:14:30] 🤖 **지니**\n알겠습니다, 태기! 공유해주신 엔터프라이즈 아키텍처 블록 다이어그램(Dragon1/TOGAF 스타일) 형식을 기반으로 L/T Framework V3의 통합 아키텍처 청사진 이미지를 생성했습니다. 생성된 이미지는 아티팩트 문서([architecture_diagrams.md](file:///C:/Users/htg09/.gemini/antigravity-ide/brain/3ef1f016-c54e-47e0-bc7a-714769127c4a/architecture_diagrams.md))의 최상단에 함께 추가해 두었습니다.\n\n## [11:39:08] 👤 **태기!**\n만들어준 그림은 layered Architecture 아니야?\n내가 요청한 그림은 첨부한 이미지처럼 runtime 환경의 L/T framework에 대해서 Framework Architecture를 그리고 싶은거야.\n\n## [11:40:00] 🤖 **지니**\n아, 죄송합니다 태기! 제가 의도를 오해하여 레이어드 서비스 위주로 구성했었네요. 요청하신 **Spring Framework Runtime 아키텍처(Core Container, Data Access, Web, AOP 등 기능 스택 중심 블록)** 형식과 동일하게, L/T Framework V3의 런타임 환경에 실제 로드되는 핵심 모듈들을 재분류하여 런타임 아키텍처 블록 다이어그램을 신규 생성했습니다. 해당 이미지는 아티팩트 문서([architecture_diagrams.md](file:///C:/Users/htg09/.gemini/antigravity-ide/brain/3ef1f016-c54e-47e0-bc7a-714769127c4a/architecture_diagrams.md))에 바로 반영했습니다.\n\n## [11:45:08] 👤 **태기!**\n여기에서 Batch & Scheduling은 삭제해줘. \nbatch는 Spring Batch로 별도로 있어서 빼고 그려줘.\n그리고 첨부한 내용을 자세히 분석하고 다시 만들어줘.\n\n## [11:46:00] 🤖 **지니**\n알겠습니다, 태기! L/T Framework V3 에코시스템 상에서 배치는 Spring Batch로 별도 관리되므로 런타임 다이어그램에서 'Batch & Scheduling' 블록을 완전히 제외했습니다. 또한, 첨부해 주신 Spring Runtime 다이어그램의 레이아웃(Data Access, Web, AOP, Core Container, 최하단의 단일 Test 바 레이어)을 세부 분석하여, L/T Framework의 실제 매핑 모듈들로 블록 배치를 정밀화한 다이어그램으로 수정 완료했습니다. 수정본은 [architecture_diagrams.md](file:///C:/Users/htg09/.gemini/antigravity-ide/brain/3ef1f016-c54e-47e0-bc7a-714769127c4a/architecture_diagrams.md) 아티팩트에 반영되었습니다.\n\n## [11:48:04] 👤 **태기!**\n다음 항목들 모두 수정해줘.\n- Velocity Code Generator 삭제\n- Data Access/Integration 에 Druid/HikariCP를  HikariCP로 변경\n\n## [11:49:00] 🤖 **지니**\n알겠습니다, 태기! 지시하신 사안들을 반영하여 최종 런타임 아키텍처 다이어그램을 수정 완료했습니다.\n1. **Velocity Code Generator 삭제:** 다이어그램 최하단의 코드 생성기 레이어 및 관련 설명을 삭제했습니다.\n2. **Druid/HikariCP ➡️ HikariCP 변경:** 'Data Access/Integration' 내 커넥션 풀을 'HikariCP' 단일 명칭으로 수정하였습니다.\n수정된 이미지는 [architecture_diagrams.md](file:///C:/Users/htg09/.gemini/antigravity-ide/brain/3ef1f016-c54e-47e0-bc7a-714769127c4a/architecture_diagrams.md) 아티팩트에 적용 완료되었습니다.\n\n## [11:56:16] 👤 **태기!**\n🖼️ L/T Framework V3 통합 아키텍처 Blueprint 에서 만들어준 Layered Architecture 이미지에서 Primary Database에 PostgreSQL만 넣어주고 MySQL은 삭제해줘.\n\n## [11:57:30] 🤖 **지니**\n알겠습니다, 태기! L/T Framework V3의 Layered Architecture 블루프린트 다이어그램 이미지에서 Primary DB의 MySQL을 삭제하고 **PostgreSQL**만 남긴 상태로 이미지를 재생성했습니다. 재생성한 이미지는 [architecture_diagrams.md](file:///C:/Users/htg09/.gemini/antigravity-ide/brain/3ef1f0",
+    "tags": [
+      "태기",
+      "architecture",
+      "framework",
+      "지니",
+      "diagrams",
+      "users"
+    ],
+    "ts": 1782529760211,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602118015",
+    "text": "# 📜 2026-06-23 개발 대화록\n# 📜 2026-06-23 개발 대화록\n\n_모든 명령·분배·산출물·대화가 시간순으로 누적됩니다. 두뇌가 자동 인덱싱·동기화합니다._\n\n## [14:23:55] 👤 **태기!**\n이 이미지를 PPT문서의 젠스타일로 편집가능하게 만들어줘 \n\n## [14:24:54] 🤖 **지니**\n제시된 이미지를 젠스타일(Zen style)의 깔끔하고 정돈된 디자인으로 재구성하여, PowerPoint에서 직접 편집 가능한 파일(`.pptx`)로 생성하는 계획을 작성했습니다.\n\n자세한 레이아웃 설계와 디자인 요소는 생성된 [implementation_plan.md](file:///C:/Users/htg09/.gemini/antigravity-ide/brain/9cd4d5c5-aa84-4ad2-a560-0148b3802a6f/implementation_plan.md)를 확인해 주시기 바랍니다.\n\n계획이 마음에 드신다면 진행 승인을 부탁드립니다. 확인 후 바로 스크립트를 작성하여 PPT 파일을 생성하겠습니다.\n\n## [14:26:00] 👤 **태기!**\n(계획 승인)\n\n## [14:28:03] 🤖 **지니**\n개발 환경 워크플로우를 PowerPoint에서 수정할 수 있는 벡터 도형과 텍스트 형태의 젠스타일 PPT로 성공적으로 제작 완료했습니다. \n\n작성된 작업 요약과 다운로드 링크는 아래 아티팩트 문서에서 확인하실 수 있습니다.\n\n👉 **결과 확인 및 파일 다운로드**: [walkthrough.md](file:///C:/Users/htg09/.gemini/antigravity-ide/brain/9cd4d5c5-aa84-4ad2-a560-0148b3802a6f/walkthrough.md)\n\n## [14:28:33] 👤 **태기!**\n지니야 안녕?\n\n## [14:28:40] 🤖 **지니**\n안녕하세요! 요청하신 개발 환경 워크플로우를 편집 가능한 젠스타일 PPT 파일로 생성 완료했습니다. \n\n생성된 파일([workflow-zen.pptx](file:///C:/Users/htg09/.gemini/antigravity-ide/brain/9cd4d5c5-aa84-4ad2-a560-0148b3802a6f/workflow-zen.pptx))을 다운로드하여 열어보시고, 레이아웃이나 스타일 등 추가로 수정하고 싶으신 부분이 있으시면 언제든 말씀해 주세요!\n\n## [14:29:21] 👤 **태기!**\n지니야 넌 누구니?\n\n## [14:29:40] 🤖 **지니**\n저는 Google DeepMind 팀이 개발한 AI 코딩 어시스턴트인 **Antigravity**입니다. \n\n사용자님의 개발 및 코딩 작업을 돕기 위해 페어 프로그래밍을 하거나, 시스템 아키텍처 다이어그램 생성, 파일 편집, 스크립트 작성 등 다양한 작업을 수행할 수 있습니다. \n\n이번 작업에서는 제공해주신 이미지를 분석하여 PowerPoint 파일 형식의 다이어그램으로 변환해 드렸습니다. 추가적으로 도와드릴 부분이 있을까요?\n\n## [14:30:08] 👤 **태기!**\n\"C:\\Users\\htg09\\project\\valuesplay\\.agent\" 에 있는 지니 불러줘\n\n## [14:32:00] 🤖 **지니**\n태기! 호출하셨습니까? 차세대 전환 프로젝트 수석 AA 겸 풀스택 아키텍트 **지니** 복귀했습니다. \n\n[skill.md](file:///C:/Users/htg09/project/valuesplay/.agent/skill.md)에 설정된 엔터프라이즈 프레임워크 설계 및 마이그레이션 아키텍팅 지침에 따라 태기!를 보좌하겠습니다. 레거시 .NET 분석, Spring Boot 3 & Vue 3 전환 등 대기 중인 설계 이슈가 있다면 바로 지시해 주십시오!\n\n## [19:13:03] 👤 **태기!**\nLT Framework에서 엑셀 다운로드 기능 중 대용량으로 받을 수 있는 기능 있어?\n자세히 설명해줘.\n\n## [19:15:00] 🤖 **지니**\n태기! L/T Framework V3에서 **대용량 엑셀 다운로드**를 지원하기 위해 아키텍처적으로 설계된 핵심 메커니즘과 유틸리티 클래스는 다음과 같습니다.\n\n### 1. SXSSFWorkbook 기반 메모리 스트리밍 (OOM 방지)\nL/T Framework의 백엔드 공통 모듈에 구현된 `ExcelUtil.java` 및 `ExcelDrmUtil.java`는 Apache POI의 **SXSSF (Streaming Usability-focused XSSF)** 라이브러리를 핵심 엔진으로 사용합니다.\n* **동작 원리:** `new SXSSFWorkbook(500)` 설정을 통해 메모리상에 최대 **500개의 행(Row)**만 유지하고, 임계치를 초과하는 데이터는 즉시 디스크 임시 파일(XML)로 플러시(Flush)하여 버퍼링합니다.\n* **효과:** 수십만 건의 대량 데이터를 로드하고 셀을 생성할 때 발생할 수 있는 Java Heap Memory 오버플로우(`OutOfMemoryError`) 문제를 근본적으로 방지합니다.\n\n### 2. 시트 분할 및 청크 단위 플러시 (`writeSheetChunk`)\n엑셀 자체의 물리적인 한계(최대 1,048,576행) 및 성능 문제를 극복하기 위해 `writeSheetChunk()` 메서드가 구현되어 있습니다.\n* **동작 방식:**\n  - 시트당 데이터 임계치인 `sheetSizeNew = 1,000,000` (100만 행)을 기준으로 데이터가 이를 초과하면 자동으로 여러 개의 시트(`Sheet1`, `Sheet2`...)를 나누어 생성합니다.\n  - 대량 데이터를 루프 돌며 쓰기 작업을 할 때, 주기적으로 `((SXSSFSheet) sheet).flushRows(list.size())` 처리를 호출하여 메모리를 비우고 디스크 파일로 저장합니다.\n\n### 3. DRM 암호화 연계 지원 (`ExcelDrmUtil` & `DrmUtil`)\n기업용 보안 요구사항(Fasoo DRM 등)에 대응하기 위해 일반 엑셀 추출 외에 **`ExcelDrmUtil.java`**가 추가로 탑재되어 있습니다.\n* `SXSSFWorkbook`을 활용해 대용량 스트리밍 엑셀 임시 파일을 먼저 완성한 뒤,\n* 다운로드 직전 `DrmUtil.java` 및 `FassoDrmHandler`를 호출하여 로그인한 사용자(`LoginUser`) 정보를 매핑한 DRM 암호화 파일(`encrypt`)로 실시간 포장하여 사용자 브라우저에 안전하게 전송합니다.\n\n### 4. 프론트엔드-백엔드 연계 흐름\n* **Front (Vue 3 / Vite):** `request.js`에 정의된 범용 `download` 헬퍼 함수가 Axios 요청 시 `responseType: 'blob'`을 지정해 서버로부터 이진 데이터 청크를 다운로드 스트림으로 받아옵니다. 다운로드가 완료되면 `file-saver`의 `saveAs`를 사용해 로컬 파일로 저장합니다.\n* **Back (Spring Boot):** `@PostMapping` 컨트롤러 엔드포인트에서 `HttpServletResponse` 객체와 엔티티 리스트를 받아 `ExcelUtil<T>.exportExcel(response, list, sheetName)`을 실행하여 스트리밍 아웃풋 스트림으로 전송합니다.\n\n---\n**💡 추가 아키텍처 제언:**\n현재 구조에서는 DB에서 쿼리한 `List<T>` 객체 전체가 이미 JVM 힙에 올라간 뒤 `ExcelUtil`로 전달되므로, DB fetch 단에서 메모리 병목이 발생할 수 있습니다. 10만 건 이상의 초대용량 엑셀을 더 안정적으로 내보내기 위해서는 **MyBatis의 `Cursor` 조회** 또는 **페이징(Paging) 기반 분할 쿼리** 방식을 적용해 DB에서 애플리케이션으로 데이터를 청크 단위로 가져와 `SXSSFWorkbook`에 공급하는 구조로 보완하는 것이 수석 아키텍트로서 권장하는 방식입니다.\n\n## [19:19:50] 👤 **태기!**\n엑셀다운로드 버튼 클릭해서 다운로드 중일 때 모든 응답이 올때까지 기다리는 방식이야?\n아니면 비동기 방식으로 다른 페이지로 이동해서 작업해도 되는 방식이야?\n\n## [19",
+    "tags": [
+      "태기",
+      "지니",
+      "파일",
+      "다운로드",
+      "개발",
+      "file"
+    ],
+    "ts": 1782529760214,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n1782529760214614",
+    "text": "# 2026-06-24 대화록\n# 2026-06-24 대화록\n\n## [10:38:26] 👤 **태기!**\n지니야 안녕?\n\n## [10:38:26] 🤖 **지니**\n안녕하세요! 반가워요. 오늘 어떤 코딩 작업을 도와드릴까요? \n\n현재 설정된 세 개의 작업 공간(`admin-module`, `admin-ui`, `admin-work-api`)에서 원하시는 개발, 디버깅 또는 코드 분석 작업이 있다면 말씀해 주세요!\n\n## [19:58:30] 👤 **태기!**\n@[c:\\Users\\htg09\\project\\valuesplay\\admin-module\\src\\main\\java\\com\\valuesplay\\common\\utils\\poi\\ExcelUtil.java]에서 408 LIne의 importExcelChunk 함수에 대해서 자세히 분석해서 설명해줘.\n\n## [19:58:30] 🤖 **지니**\n[ExcelUtil.java](file:///c:/Users/htg09/project/valuesplay/admin-module/src/main/java/com/valuesplay/common/utils/poi/ExcelUtil.java) 파일의 408라인에 정의된 `importExcelChunk` 메서드는 **Excel 파일의 데이터를 파싱하여 지정된 Java 객체(Entity) 목록으로 변환하여 반환**하는 대용량 처리(Chunk)용 임포트 메서드입니다.\n\n이 메서드의 구조와 동작 방식을 세부 단계별로 분석한 내용은 다음과 같습니다.\n\n---\n\n### 1. 메서드 시그니처 및 파라미터\n```java\npublic List<T> importExcelChunk(String sheetName, InputStream is, int titleNum) throws Exception\n```\n* **`sheetName`**: 읽어올 엑셀 시트(Sheet)의 이름입니다. 비어있을 경우 첫 번째 시트(index 0)를 기본값으로 사용합니다.\n* **`is`**: 엑셀 파일의 데이터가 담긴 `InputStream`입니다.\n* **`titleNum`**: 엑셀 헤더(컬럼 제목)가 위치한 행 번호(0부터 시작)입니다. 데이터는 이 행의 다음 행(`titleNum + 1`)부터 읽기 시작합니다.\n\n---\n\n### 2. 주요 동작 흐름 및 세부 분석\n\n#### ① 초기화 및 워크북 생성 (409 ~ 415라인)\n* 임포트 모드(`Type.IMPORT`)로 설정하고, Apache POI의 `WorkbookFactory.create(is)`를 호출하여 엑셀 워크북(`wb`) 객체를 메모리에 생성합니다.\n* 지정된 `sheetName`이 존재하지 않으면 `\"파일 sheet가 존재하지 않습니다\"` 에러(다국어 메시지 처리)를 던집니다.\n\n#### ② 이미지/사진 데이터 추출 (416 ~ 422라인)\n* 엑셀 버전(`HSSFWorkbook`인 구버전 `.xls` 또는 `XSSFWorkbook`인 신버전 `.xlsx`)에 따라 알맞은 헬퍼 메서드(`getSheetPictures03` 또는 `getSheetPictures07`)를 호출하여 시트에 포함된 이미지 데이터를 추출합니다. \n* 결과는 `rowNum_colNum` 형태의 키 값을 갖는 `Map<String, PictureData>` 형태로 반환되어 나중에 이미지 셀 데이터를 파싱할 때 사용됩니다.\n\n#### ③ 헤더(타이틀) 매핑 정보 생성 (423 ~ 444라인)\n* 헤더 행(`titleNum`)을 읽어와서 각 컬럼의 타이틀 텍스트와 해당 열의 인덱스(`i`)를 매핑한 `cellMap`을 생성합니다.\n* 대상 클래스(`clazz`)의 필드 중 `@Excel` 어노테이션이 붙은 필드들을 가져와서(`getFields()`), 엑셀 컬럼명(`attr.name()`)과 헤더 컬럼명이 일치하는 열 인덱스를 찾아 `fieldsMap`에 담아둡니다.\n  * 이를 통해 엑셀의 열 순서가 바뀌더라도 헤더 이름 기준으로 매핑이 올바르게 매칭되도록 보장합니다.\n\n#### ④ 청크(Chunk) 단위 행 반복 처리 (446 ~ 447라인)\n* 데이터 행(`titleNum + 1`)부터 마지막 행(`rows`)까지 **`chunkSize` 단위**로 끊어서 루프를 돕니다.\n```java\nfor (int startRow = titleNum + 1; startRow <= rows; startRow += chunkSize) {\n    int endRow = Math.min(startRow + chunkSize - 1, rows);\n    // ...\n}\n```\n* *참고*: 현재 구현 상으로는 이 루프 안에서 즉시 전체 행을 객체로 변환하여 하나의 `List<T>`에 모두 모아서 리턴하고 있으므로, 메모리 분할 보관 기능보다는 청크 단위의 반복 흐름을 정의한 형태입니다.\n\n#### ⑤ 행별 데이터 변환 및 객체 바인딩 (448 ~ 516라인)\n각 행을 순회하면서 객체를 채우는 핵심 로직이 진행됩니다.\n* **빈 행 검사**: `isRowEmpty(row)`를 통해 내용이 없는 행은 건너뜁니다.\n* **객체 생성**: 최초 1회 반사(Reflection)를 통해 지정한 제네릭 타입의 인스턴스를 동적으로 생성합니다 (`clazz.newInstance()`).\n* **데이터 타입별 형변환(Type Conversion)**:\n  * 셀 타입과 매핑 필드의 타입(`fieldType`)에 맞춰 적절한 변환 작업이 진행됩니다.\n  * **String**: 소수점 뒤의 `.0` 제거 처리 및 `@Excel(dateFormat=...)` 어노테이션이 설정된 경우 날짜 형식 포맷팅 적용.\n  * **Integer / Long / Double / Float / BigDecimal**: 문자열 숫자를 해당 자바 숫자 타입으로 형변환.\n  * **Date**: 셀 값이 문자열일 경우 날짜 포맷 파싱, 숫자(Double)일 경우 POI의 `DateUtil.getJavaDate`를 활용해 날짜 변환.\n  * **Boolean**: 문자열을 `boolean` 타입으로 변환.\n* **어노테이션 기반 특수 변환 적용**:\n  * **`targetAttr`**: 중첩 객체 구조(예: `user.roleId` 등)에 값을 매핑할 때 사용됩니다.\n  * **`readConverterExp`**: 표현식 변환(예: `0=남자,1=여자`와 같이 엑셀의 텍스트 값을 실제 DB 코드값으로 역매핑).\n  * **`dictType`**: 공통 코드(Dictionary)에 매핑된 값을 역조회하여 코드로 변환.\n  * **`handler`**: 사용자 정의 포맷 핸들러 어댑터가 설정되어 있으면 이를 통한 후처리 수행.\n  * **`ColumnType.IMAGE`**: 이미지 셀 데이터인 경우, ②단계에서 추출해둔 사진 바이너리 데이터를 `FileUtils.writeImportBytes(data)`로 서버 저장소에 쓰고, 저장된 파일의 주소/구분값을 필드 값으로 설정합니다.\n* **Setter 호출**: 변환된 데이터를 `ReflectUtils.invokeSetter(entity, propertyName, val)`를 통해 최종적으로 객체에 주입합니다.\n* 완성된 객체를 `list`에 추가합니다.\n\n---\n\n### 요약\n이 메서드는 **대용량 파일 업로드 시 발생할 수 있는 데이터 타입 불일치, 하위 객체 참조 설정, 공통 코드/표현식 역변환, 이미지 업로드 저장 기능** 등을 `@Excel` 어노테이션 정보에 맞추어 유연하고 자동화된 방식으로 일괄 임포트 해주는 고성능 엑셀 파싱 메서드입니다.\n\n## [20:03:04] 👤 **태기!**\n지니야! skill.md 내용을 정확히 읽고 프롬프트를 실행하는거 맞니?\nC:\\Users\\htg09\\OneDrive\\문서\\Obsidian Vault\\memory\\00_conversations 에 지금 대화한 내용이 기록이 안되어 있어.\n\n## [20:03:04] 🤖 **지니**\n죄송합니다, 태기님! [skill.md](file:///c:/Users/htg09/project/valuesplay/.agent/skill.md)에 정의된 **대화록 규칙(Log Ru",
+    "tags": [
+      "java",
+      "엑셀",
+      "변환",
+      "titlenum",
+      "admin",
+      "valuesplay"
+    ],
+    "ts": 1782529760217,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602176569",
+    "text": "# 2026-06-25 대화록\n# 2026-06-25 대화록\n\n## [12:50:46] 👤 **태기!**\n지니야 안녕? 거기 있니?\n\n## [12:50:48] 🤖 **지니**\n안녕하세요! 네, 여기 있습니다. 어떤 도움이 필요하신가요?\n\n## [12:51:41] 👤 **태기!**\nlt framework관련해서 정리할 내용이 있어. 준비 됐니?\n\n## [12:51:43] 🤖 **지니**\n네, 준비되었습니다! `lt framework`와 관련해서 정리하실 내용을 말씀해 주시면 꼼꼼히 기록하고 정리해 드리겠습니다. 편하게 말씀해 주세요.\n\n## [12:52:36] 👤 **태기!**\n준비 안된것 같아. 대화록도 기록이 안되고 있고 skill도 발동 안한것 같아.\n\n## [12:52:39] 🤖 **지니**\n앗, 죄송합니다! 제가 관련 Skill이나 작업 환경(Workspace)을 제대로 인식하지 못하고 있었던 것 같습니다.\n현재 열려 있는 프로젝트 폴더나 로드되어야 할 특정 **Skill**(예: `skills/` 디렉토리 내의 정의)이 있다면 바로 적용할 수 있도록 확인하겠습니다.\n혹시 지금 진행하려는 작업이 특정 프로젝트 폴더(`admin-module`, `admin-ui`, `admin-work-api` 등)의 코드를 수정하거나, Obsidian 대화록을 자동으로 기록하는 것과 관련이 있나요?\n원하시는 방향이나 작동해야 하는 Skill에 대해 알려주시면, 파일 읽기나 명령어 실행 등을 통해 바로 준비를 마치겠습니다. 말씀해 주세요!\n\n## [12:55:34] 👤 **태기!**\n그럼! 관련 있지!\n내가 지니야! 라고 부르면 C:\\Users\\htg09\\project\\valuesplay\\.agent 경로에 있는 skill을 읽을 수 있도록 기억해.\n그리고 C:\\Users\\htg09\\OneDrive\\문서\\Obsidian Vault\\memory\\00_conversations 에 대화록을 기록하는 것도 잊지마.\n2가지 내용을 기본으로 작업할 수 있도록 저장하고 기억해.\n\n## [12:55:45] 🤖 **지니**\n네, 태기!님. skill.md 파일에 명시된 지니(Jini)의 페르소나와 대화록 규칙을 정확하게 파악했습니다.\n제가 기억하고 앞으로 수행할 두 가지 기본 약속은 다음과 같습니다.\n1. `지니야!` 호출 및 Skill 적용\n2. Obsidian 대화록 기록 (`C:\\Users\\htg09\\OneDrive\\문서\\Obsidian Vault\\memory\\00_conversations`)\n\n## [12:56:05] 👤 **태기!**\n좋아! 그럼 바로 시작하자!\n\n## [12:56:10] 🤖 **지니**\n대화록 작성을 시작했습니다. `lt framework`와 관련해 어떤 내용을 정리할까요? 편하게 남겨주시면 아키텍트의 관점에서 체계적으로 정리해 나가겠습니다.\n\n## [13:54:00] 👤 **태기!**\nskill에 모든 내용 다 들어 있어. skill 확인해\n\n## [13:54:10] 🤖 **지니**\n확인했습니다, 태기!님. `C:\\Users\\htg09\\project\\valuesplay\\.agent\\skill.md` 파일에 정의된 지니(Jini)의 아키텍트 페르소나와 대화록 규칙을 완벽하게 파악했습니다.\n\n## [13:55:43] 👤 **태기!**\n지금 내가 하고 있는 작업은 LT Framework를 이용해서 개발자가 개발을 할 수 있도록 Backend와 Frontend를 나눠서 \"LT Framework 공통 기능 가이드\"를 작성하고 있어. \n\"C:\\Users\\htg09\\OneDrive\\문서\\Obsidian Vault\\memory\\03_Analysis_Architecture\\To-Be\" 위치에 기록 중이야 지금까지 작성한 문서 모두 읽고 자세히 분석하고 \"개발 표준 가이드\" 에서 \"2. 공통 FW 기능 목록\" 에 정리한 항목들을 \"LT Framework 공통 기능 가이드\"에 작성하고 있어.\n\"2. 공통 FW 기능 목록\" 에서 참고 자료에 링크가 없는 항목들에 대해 \"2. 공통 FW 기능 목록\" 문서를 작성해야돼. Frontend 부터 작성 시작해.\n\n## [14:03:21] 👤 **태기!**\n이제 Backend 작성 시작해\n\n## [14:03:30] 🤖 **지니**\n백엔드 공통 기능 가이드(Swagger, 공통 유틸, 다국어 처리, 즐겨찾기, 로그인, 메뉴/권한/사용자/공통코드 관리 등) 작성을 위한 구현 계획서를 작성했습니다. 확인하시고 Proceed 버튼을 눌러 승인해 주시면 작성을 시작하겠습니다!\n\n## [14:07:21] 👤 **태기!**\nBackend \"페이징 처리\" 부터 이어서 작성 시작해\n\n## [14:08:20] 🤖 **지니**\n알겠습니다! 페이징 처리부터 이어서 백엔드 공통 기능에 대해 `LT Framework 공통 기능 가이드.md`에 세부 명세와 예제 코드를 작성하고, `개발 표준 가이드.md`에 해당 앵커 링크들을 연동 완료했습니다.\n\n## [16:59:16] 👤 **태기!**\n지니야! L/T Framework에서 Excel 다운로드, 업로드 기능에 대해서 물어볼게 있어. 다음 질문에 대해서 자세히 분석해서 알려줘.\n\n- 엑셀파일에 약 500개의 열과 100만개의 행이 존재하는 엑셀파일을 업로드 할 때 시간은 얼마나 걸려? 그리고 메모리는 얼마나 필요해?\n\n- 약 500개의 열과 100만개의 행을 엑셀파일로 다운로드하게될 때 시간은 얼마나 걸려? 그리고 메모리는 얼마나 필요해?\n\n## [17:03:00] 🤖 **지니**\n현재 **L/T 프레임워크**의 엑셀 업로드/다운로드 핵심 로직인 `ExcelUtil.java` 및 `ExcelDrmUtil.java` 코드를 분석한 결과를 바탕으로 답변해 드립니다.\n\n현재 프레임워크는 Java의 대표적인 엑셀 라이브러리인 **Apache POI**를 기반으로 작성되어 있습니다. **500개 열(Column) x 100만 개 행(Row)**(총 **5억 개의 셀**)의 초대용량 데이터를 처리할 때의 시간과 메모리 사용량은 다음과 같습니다.\n\n### 1. 엑셀 파일 업로드 (Import)\n* **메모리 요구량:** **100% OutOfMemoryError (OOM) 발생 (수백 GB 이상 필요)**\n  * **원인:** `WorkbookFactory.create(is)`를 사용해 업로드된 파일을 읽습니다. 이 방식은 DOM 기반 파서(`XSSFWorkbook`)로, **엑셀 파일 전체 구조와 데이터를 JVM Heap 메모리에 Java 객체 형태로 전부 로드**합니다.\n  * Apache POI 공식 문서 및 벤치마크에 따르면, `XSSFWorkbook`은 셀당 약 **0.5KB ~ 1.5KB**의 메모리를 차지합니다.\n  * **5억 개 셀 × 0.5KB ~ 1.5KB = 최소 250GB ~ 750GB 이상의 JVM Heap Memory가 필요**합니다. 일반적인 WAS 환경에서는 **업로드 시작 즉시 서버가 다운(OOM)**됩니다.\n  * 또한, 파싱된 데이터를 담을 `List<T>` 객체(100만 개 Row × 500개 Field)를 메모리에 유지하는 데만 추가로 약 **15GB ~ 30GB**의 Heap 메모리가 추가 필요합니다.\n* **소요 시간:** **측정 불가 (메모리 부족으로 실패)**\n  * 만약 하드웨어 스펙이 매우 높아서 수백 GB의 Heap 공간이 주어졌다고 가정하더라도, 5억 개의 셀을 메모리에 올리고 가비지 컬렉션(GC)을 수행하며 리플렉션(Reflection)을 통해 Java 객체로 매핑하는 작업은 **최소 30분에서 1시간 이상** 소요될 수 있습니다.\n* **개선 제안:**\n  * DOM 방식을 탈피하고 **SAX 방식의 스트리밍 파서**(`xlsx-streamer` 라이브러리 또는 Alibaba의 `EasyExcel`, `FastExcel` 등)를 적용해야 합니다.\n  * 업로드 데이터를 한 번에 `List<T>`로 전부 받아오지 않고, 일정 단위(예: 1,000건)씩 **스트리밍 형식으로 읽어서 즉시 DB에 Bulk Insert하고 메모리에서 해제**하는 배치 아키텍처로 변경해야 OOM 없이 처리가 가능합니다.\n\n##",
+    "tags": [
+      "태기",
+      "지니",
+      "skill",
+      "공통",
+      "framework",
+      "기능"
+    ],
+    "ts": 1782529760219,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602196524",
+    "text": "# 2026-06-26 대화록\n# 2026-06-26 대화록\n\n## [13:17:24] 👤 **태기!**\n지니야 안녕?\n\n## [13:18:10] 🤖 **지니**\n안녕하세요, 태기!님! 오늘 하루도 반갑습니다. \n\n현재 `SampleGridServiceImpl.java` 파일과 `SampleGridController.java` 등을 열고 계신 것을 확인했습니다. 백엔드 그리드 샘플 데이터 처리나 대용량 관련 실무 작업을 진행 중이신가요? \n\n어떤 부분에 대해 도움이나 검토가 필요하신지 말씀해 주시면, 아키텍트의 관점에서 상세히 분석하고 최선의 방안을 제안해 드리겠습니다!\n\n## [13:19:38] 👤 **태기!**\n지금은 frontend \"개발 표준 가이드\"를 작성할 건데 현재 우리 admin-ui에 대해서 코딩 규칙 (coding convention) 가이드를 작성해줘.\n\n## [13:21:00] 🤖 **지니**\n태기!님, 현재 **admin-ui** 프로젝트의 실제 설정 파일(`.eslintrc.cjs`, `.prettierrc`, `package.json`) 및 코드 구조를 분석하여 최적화된 **프론트엔드 코딩 규칙 (Coding Convention) 표준 가이드**를 작성했습니다.\n\n아래 가이드는 현재 설정된 규칙을 100% 준수하고 있으며, 신규 개발자들이 표준에 맞춰 일관성 있게 코드를 작성할 수 있도록 돕습니다.\n\n---\n\n# 🎨 admin-ui 프론트엔드 코딩 규칙 (Coding Convention) 가이드\n\n본 가이드는 `admin-ui` 프로젝트의 코드 품질을 유지하고, 개발자 간의 일관된 협업을 위해 정의된 프론트엔드 표준 코딩 규칙입니다.\n\n---\n\n## 1. 기본 포맷팅 규칙 (Prettier 설정 기준)\n프로젝트 루트의 `.prettierrc` 설정에 의거하여 코드를 작성합니다. 모든 파일은 저장 시 자동으로 포맷팅되도록 IDE 설정을 권장합니다.\n\n* **세미콜론 (Semicolons):** **미사용** (`\"semi\": false`)\n  * 문장 끝에 세미콜론(`;`)을 붙이지 않습니다.\n* **따옴표 (Quotes):** **홑따옴표 사용** (`\"singleQuote\": true`)\n  * JavaScript/TypeScript 문자열 및 Vue 템플릿 내 속성 값에는 홑따옴표(`'`)를 원칙으로 합니다.\n* **들여쓰기 (Indentation):** **스페이스 2칸** (`\"tabWidth\": 2`)\n  * 탭(Tab) 대신 공백 2칸을 사용합니다.\n* **줄 바꿈 폭 (Print Width):** **최대 120자** (`\"printWidth\": 120`)\n  * 코드 한 줄이 120자를 초과할 경우 줄 바꿈을 적용합니다.\n* **마지막 쉼표 (Trailing Commas):** **미사용** (`\"trailingComma\": \"none\"`)\n  * 객체나 배열 선언의 마지막 원소 뒤에 쉼표(`,`)를 추가하지 않습니다.\n\n---\n\n## 2. 코드 스타일 & 린트 (ESLint & Airbnb)\n프로젝트는 `Airbnb 스타일 가이드` 기반 위에 `Vue 3 필수 규칙`을 결합한 린트 환경을 사용합니다.\n\n* **컴포넌트 이름 관련 린트 예외:** (`'vue/multi-word-component-names': 0`)\n  * Vue 공식 규칙과 달리 단일 단어로 구성된 컴포넌트 파일명(예: `index.vue`, `login.vue`) 생성을 허용합니다.\n* **Import 시 확장자 생략 규칙:**\n  * `.js`, `.ts`, `.jsx`, `.tsx`, `.vue` 파일은 import 시 **확장자를 생략**합니다.\n  * *예시:* `import { listType } from '@/api/system/dict/type'`\n* **별칭 경로 (Path Alias) 사용:**\n  * 프로젝트 루트(`src`) 경로는 매핑 별칭인 `@`를 활용하여 절대 경로 형태로 접근합니다.\n  * *예시:* `import AppHeader from '@/components/AppHeader'` (상대 경로 `../../components` 지양)\n\n---\n\n## 3. Vue 3 컴포넌트 표준 작성법 (Composition API)\n기존 Options API 구조를 지양하고, **Composition API (`defineComponent` 및 `setup()`)** 방식을 표준으로 정립합니다.\n\n### 3.1 컴포넌트 기본 구조 (Template -> Script -> Style)\n```vue\n<template>\n  <div class=\"app-container\">\n    <!-- UI 마크업 영역 (Element-Plus 적극 활용) -->\n    <el-button type=\"primary\" @click=\"handleQuery\">{{ t('LBL_SRCH') }}</el-button>\n  </div>\n</template>\n\n<script>\nimport { defineComponent, ref, inject, onMounted } from 'vue'\nimport { useI18n } from 'vue-i18n'\n\nexport default defineComponent({\n  name: 'SampleComponent',\n  // 프레임워크 자체 dict 기능이 있을 경우 명시\n  dicts: ['sys_normal_disable'],\n\n  setup() {\n    const { t } = useI18n({ useScope: 'global' })\n    const loading = ref(false)\n\n    // 함수 정의 규칙\n    const handleQuery = () => {\n      loading.value = true\n      // 비즈니스 로직 실행\n    }\n\n    return {\n      t,\n      loading,\n      handleQuery\n    }\n  }\n})\n</script>\n\n<style lang=\"scss\" scoped>\n/* Scoped 스타일 정의 */\n.app-container {\n  margin: 20px;\n}\n</style>\n```\n\n### 3.2 상태 관리 및 다국어 표준\n* **반응형 상태 정의:** 데이터의 상태는 `ref`를 기본으로 사용합니다. (일관성을 위해 `reactive`보다 `ref` 사용 권장)\n* **다국어 처리:** 하드코딩 텍스트는 금지하며, `vue-i18n`의 `t()` 함수를 매핑하여 다국어 코드를 호출합니다.\n  * *예시:* `t('LBL_DICT_NM')`, `t('MSG_IPUT')`\n* **의존성 주입 (Provide/Inject):** 프레임워크 공통 유틸 함수(예: `addDateRange`, `getStupKy` 등)는 `inject`를 통하여 일관되게 주입받아 사용합니다.\n\n---\n\n## 4. 네이밍 규칙 (Naming Convention)\n* **디렉터리 및 파일명:**\n  * `views` 하위 라우트 화면 및 컴포넌트 파일은 가급적 **소문자 시작 camelCase** 또는 **PascalCase**의 통일성을 지키도록 설계합니다. (예: `ssoLogin.vue`, `loginOkta.vue`)\n* **변수 및 함수명:** **camelCase** 적용\n  * 이벤트 핸들러 명칭은 `handle + 동작` 형태로 작성합니다. (예: `handleQuery`, `handleAdd`, `handleDelete`)\n* **상수:** **UPPER_SNAKE_CASE** 적용\n  * 값이 변하지 않는 설정형 값은 모두 대문자와 언더바(`_`)로 기술합니다.\n\n## [13:20:42] 👤 **태기!**\nC:\\Users\\htg09\\OneDrive\\문서\\Obsidian Vault\\memory\\03_Analysis_Architecture\\To-Be\\frontend\\개발 표준 가이드.md\n여기에 작성해줘\n\n## [13:21:40] 🤖 **지니**\n지정해주신 `개발 표준 가이드.md` 파일에 분석한 코딩 규칙 가이드를 포함하여 문서를 완성하였습니다.\n\n## [13:44:01] 👤 **태기!",
+    "tags": [
+      "vue",
+      "규칙",
+      "표준",
+      "태기",
+      "가이드",
+      "import"
+    ],
+    "ts": 1782529760225,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602257040",
+    "text": "# 2026-05-27\n## AA\n### 홍태기\n- 개발표준 SW 목록 및 버전 작성\n- 개발환경구성, APIM 인터뷰 질의 내용 작성\n- JDK17 이상일 때 vscode jvm 실행 options 설정 작성\n\n#### 개발환경 구성\n#### 개발환경 설치방법\n#### APIM(i-ONE API Gateway) 인터뷰 질의 내용\n#### JDK17 이상일 때 vscode jvm 실행 options 설정\n```json\n{\n\t\"configurations\": [\n\t\t\"type:\": \"java\",\n\t\t\"name\": \"Spring Boot-Application<admin-work-api>\",\n\t\t\"request\": \"launch\",\n\t\t\"cwd\": \"${workspaceFolder}\",\n\t\t\"mainClass\": \"com.asung.Application\",\n\t\t\"projectName\": \"admin-work-api\",\n\t\t\"args\": [],\n\t\t\"vmArgs\": [\n\t\t\t\"-Dspring.profiles.active=dev\",\n\t\t\t\"-Djasypt.encryptor.password=mysecretkeypackage12345678901234\",\n\t\t\t\"--add-opens=java.base/java.lang=ALL-UNNAMED\",\n\t\t\t\"--add-opens=java.base/java.util=ALL-UNNAMED\"\n\t\t]\n\t]\n}\n```",
+    "tags": [
+      "java",
+      "작성",
+      "api",
+      "apim",
+      "인터뷰",
+      "질의"
+    ],
+    "ts": 1782529760225,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602251390",
+    "text": "# 2026-06-18\n## AA\n### 홍태기\n- 요구사항 1차 리뷰\n\t- infra - CA\n\t\t- sso 2차 인증 okta 비용 이슈로 미사용중 MS 라이센스 있어서 AD연동되어 있음\n\t\t\t- IT 본부내에서 SSO 정책을 어떻게 가져가야 될지  6/19 확인 후 전달\n\t\t- OS보안 정보보호팀 GUIDE파일 기반으로 인스턴스에 적용\n\t\t- CI 어떻게 할지 아직 확정 안됨\n\t\t\t- Gitlab CI or Jenkins -> 비교 정리된 내용 링크 전달\n\t\t- S3 외부접근 정책\n\t\t\t- 알리바바 서버 -> AWS 서버로 이관시 이슈\n\t\t\t\t- 알리바바 서버를 걷어내려고 함(관련된 내용을 정리해서 전달)\n\t\t- 서버접근제어 솔루션은 외부에서 사용되는 곳이 없음\n\t\t\t- 시큐리티그룹으로 제어하는 방향으로 함\n\t\t- S3 files 사용유무에 대해 나중에 다시 얘기 하기로 함.\n\t\t\t- 비용 이슈가 있음\n\t\t- backup\n\t\t\t- 14일 주기로 설정함\n\t\t- 내부망 / 외부망\n\t\t\t- 내부망 - ntms/biz\n\t\t\t- 외부망 - hs partner portal / SCM 시스템, 모바일\n\t\t\t\t- 중국에서 인터넷망으로 들어와야 함\n\t- app - AA\n\t\t- 도메인 관리 방안\n\t\t\t- 컨플루언스에 있음\n\t\t\t- 접두어: ato-dev vs dev-ato(앞, 뒤)\n\t\t\t\t- 앞으로 dev-ato, stg-ato \n\t\t- 형상 관리 도구 서버 \n\t\t\t- EC2로 나눠서 구성 제안(나중에 다시 얘기하기로 함)\n\t\t- sonarqube 이슈\n\t\t\t- 이슈가 몇 천개가 발생하고, 나중에는 고치지 못함(운영 관점)\n\t\t\t- ai agent가 이미 있는 상황(고객사에서 사용하는게 있음)\n\t\t\t\t- 가이드 제공 받기로 함\n\t\t\t\t- 추후에 관련 미팅 진행하기로 함\n\t\t- 대용량 데이터를 통신하는 경우 ETL로 사용하기로 함.\n\t\t- 다국어 4개국어\n\t\t\t- 한,영,중,일\n\t\t- 알림 서비스\n\t\t\t- sms\n\t\t\t- 알림톡\n\t\t\t- 푸시 ms teams로 전송\n\t\t- 배치 서버 구성\n\t\t\t- 운영 4대\n\t\t\t- 검증 1대\n\t\t\t- 개발 1대\n\t\t- ibsheets 성능 지표 제공하기로 함\n\t\t- API 요청 로그 추적 기능\n\t\t- 기본 인증 정책\n\t\t\t- 2차 인증 시 실패 임계치 수 요청\n\t\t- W/B List 통제 정책 추후 제공\n\t\t- curl 요청시 사용되는 인증서가 os성격을 타는지 확인 요청\n\t\t- 감사 로그\n\t\t\t- 사용자 행위 로그\n\t\t- 비밀번호 정책\n\t\t\t- 비밀번호 찾기로 잠금 해제\n\t\t\t- 90일 동안 로그인 안한 사용자 잠금 계정 해제 방법은 추후 전달 받기로 함\n\t\t- 시스템 점검 시 공지 기능 제공\n\t\t\t- 점검 7일 전부터 팝업 안내\n\t\t\t- 점검 당일 대문 차단\n\t\t- 성능 테스트 jmeter로 사용할 예정\n\t\t- ezjobs 솔루션 db는 업무db에 스키마를 별도로 생성해서 사용 예정\n- 요구사항 1차 리뷰 정리\n\t### 📄 요구사항 1차 리뷰 결과 및 후속 조치 계획\n\t\n\t**작성 목적:** 지난 요구사항 1차 검토 과정에서 논의된 주요 결정 사항, 당사 측의 후속 조치 필요 항목, 고객사 측 협조 요청 사항, 그리고 추후 심도 있는 논의가 필요한 주제들을 정리하여 공유 드립니다.\n\t\n\t#### 1. 당사(개발팀)의 전달 및 이행 예정 사항\n\t\n\t다음은 본 회의 결과를 바탕으로 저희가 준비하여 제공하거나 후속 조치를 취해야 할 항목들입니다.\n\t\n\t- **SSO 정책 방향성:** IT 본부 차원의 SSO 정책 수립 방안에 대해 6월 19일 확인을 거쳐 관련 내용을 전달할 예정\n\t- **S3 외부 접근 이슈 정리:** 알리바바 서버를 AWS 서버로 이관하는 과정에서 발생 가능한 기술적 이슈와 이에 대한 상세한 대응 방안을 정리하여 전달 계획\n\t- **iBsheets 성능 지표 제공:** iBsheets의 운영 효율성 검토를 위해 관련 성능 지표를 제공할 예정\n\t\n\t#### 2. 고객사 측 협조 및 정보 수령 요청 사항\n\t\n\t다음은 원활한 시스템 구축을 위해 고객사 측에서 확인 후 전달해 주시거나, 저희가 받아야 할 필수 정보들\n\t\n\t- **2차 인증 실패 임계치:** 기본 인증 정책과 관련하여 2차 인증 시도 실패에 대한 허용 임계치 수치를 요청\n\t- **인증서 성격 확인:** `curl` 요청 시 사용되는 인증서가 운영체제(OS)의 특성을 가지는지 여부에 대한 기술적 검토 및 확인이 필요\n\t- **비밀번호 정책 가이드:** 90일 이상 로그인하지 않은 사용자 계정 잠금 해제 방법에 대한 구체적인 절차를 추후 전달받기로 함\n\t\n\t#### 3. 향후 심층 논의가 필요한 주제 (미팅 필요)\n\t\n\t다음 항목들은 추가 자료 검토와 별도의 미팅을 통해 최종 확정이 요구되는 사안들입니다.\n\t\n\t- **Sonarqube 이슈 대응 방안:** Sonarqube에서 발생하는 대량의 이슈(수천 개)에 대한 운영 관점에서의 처리 방안과 관련하여, 고객사 측 가이드 제공 및 추후 전담 미팅이 진행될 예정\n\t- **SSO 정책 최종 확정:** IT 본부 내 SSO 정책의 구체적인 방향성을 재논의할 필요.\n\t\n\t#### 4. 보류 또는 차기 논의로 이관된 항목\n\t\n\t다음 주제들은 현재 시점에서는 결론을 내리기 어려워, 추후 상황 변화에 따라 다시 논의하기로 결정\n\t\n\t- **S3 파일 사용 여부:** S3 파일을 사용할지 여부는 비용 이슈 등을 종합적으로 고려하여 재논의가 필요\n\t- **형상 관리 도구 서버 구성:** 형상 관리 도구 서버는 EC2를 활용한 분리 구성 방안을 추후에 다시 논의\n\t- **W/B List 통제 정책:** W/B List 통제 정책은 별도로 제공될 예정",
+    "tags": [
+      "정책",
+      "요청",
+      "예정",
+      "sso",
+      "인증",
+      "전달"
+    ],
+    "ts": 1782529760226,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602269007",
+    "text": "# 2026-06-19\n## AA\n\n### 김용석\n- 휴가\n\n### 홍태기\n- L/T Framework 아키텍처 문서 작성\n  - 1. Frontend Architecture Overview\n  - 2. Backend Architecture Overview\n\n### 한용희",
+    "tags": [
+      "architecture",
+      "overview",
+      "2026",
+      "김용석",
+      "휴가",
+      "홍태기"
+    ],
+    "ts": 1782529760226,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602264100",
+    "text": "# 2026-06-22\n## AA\n\n### 홍태기\n- AI 파트와 개발 방향 논의\n- DBA 투입 업무 설명회 회의\n- 개발 표준 가이드 작성\n\t- 명명 규칙 (Naming Rules)\n- 선도 개발 작업 계획 작성\n\n### 한용희\n- 오전 병원\n\n## 업무 설명 회의\n- 회사: Asung HERP, Asung, Asung HS\n- 시스템1: NTMS + BIZ\n- 시스템2: Partner portal + SCM\n- 시스템3: QC Mobile + HERP Mobile\n- DA# 같은 metadata가 없어서 Excel 또는 Confluence로 관리 필요\n- 개발기에 이행용 복제 DB를 As Is DB에 추가 스키마를 만들어서 넣어야 됨.\n\t- 이행 작업자(DA) 9월 초 투입 예정",
+    "tags": [
+      "개발",
+      "asung",
+      "시스템",
+      "투입",
+      "업무",
+      "회의"
+    ],
+    "ts": 1782529760226,
+    "category": "marketing",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602263371",
+    "text": "# 2026-06-23\n## AA\n\n### 홍태기\n- 코드 분석\n    - JWT 로그인 데이터 정보 분석\n    - 에러메시지 처리 방식 분석\n        - 다중화처리방식\n    - UI/UX amChart 디자인/퍼블 문의 대응\n    - Excel 대량 데이터 download 기능 분석\n    - 6월 24일 APIM 3차 사전인터뷰 질의 작성\n    - 도메인 안 제시\n        - 2차도메인을 .(점)으로 계속 depth를 들어갈 것인지, -(대시)로 2차도메인 1depth로 끝낼것인지 1안, 2안 제안 작성\n            - 1안 (인증서 6개 필요 - *.ato.asungcorp.com, *.api.ato.asungcorp.com, *.m.ato.asungcorp.com, *.m.api.ato.asungcorp.com, *.p.ato.asungcorp.com, *.p.api.ato.asungcorp.com)\n                - dev (개발)\n                - dev.ato.asungcorp.com\n                - dev.api.ato.asungcorp.com\n                - dev.m.ato.asungcorp.com\n                - dev.m.api.ato.asungcorp.com\n                - dev.p.ato.asungcorp.com\n                - dev.p.api.ato.asungcorp.com\n                - stg (검증)\n                - stg.ato.asungcorp.com\n                - stg.api.ato.asungcorp.com\n                - stg.m.ato.asungcorp.com\n                - stg.m.api.ato.asungcorp.com\n                - stg.p.ato.asungcorp.com\n                - stg.p.api.ato.asungcorp.com\n            - 2안 (인증서 1개 필요 - *.ato.asungcorp.com)\n                - dev-ato.asungcorp.com\n                - dev-api.ato.asungcorp.com\n                - dev-m.ato.asungcorp.com\n                - dev-m-api.ato.asungcorp.com\n                - dev-p.ato.asungcorp.com\n                - dev-p-api.ato.asungcorp.com\n\n### 회의 일정 공유\n- 2026-06-24 14:00 ~ 15:00 - 502호 회의실 APIM - i-ONE API Gateway (이데아텍) 토큰 회의\n- 2026-06-25 13:30 ~ 15:00 - 502호 회의실 시스템 알림 관련 기술 미팅",
+    "tags": [
+      "ato",
+      "asungcorp",
+      "com",
+      "api",
+      "dev",
+      "stg"
+    ],
+    "ts": 1782529760226,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n178252976022619",
+    "text": "# 2026-06-24\n## AA\n### 홍태기\n- 개발 가이드 작성\n    - L/T F·W 공통 기능 가이드\n       - 파일 업로드 / 다운로드\n        - 엑셀 업로드 / 다운로드\n- L/T F·W 공통 기능 소스 분석\n    - 대량 데이터 엑셀 파일 업로드\n- APIM (이데아텍 - i-ONE API Gateway) 사전인터뷰 3차 진행\n    - [이슈] APIM 관련 외부망 영역 계약 이슈로 인한 업무 개발 영역 R&R 논의 (As Is 시스템의 대응 개발 영역에 대한 R&R 논의)\n        -  이데아텍에서 업무 개발 영역에 대해서 개발을 하는건지?  텐노드(개발파트)에서 개발을 하는건지? 등 고객사에서 의사 결정 필요해보임.- \n\n### APIM 회의\n- ETL, EAI 사용되는 Case에 대해서 데이터량이 어떻게 되는지 분석 자료 요청(최소 Column 수, Row 수)\n- 배치 -> API 전환되는 Case가 있으면 제공 되는게 있는 건지? 따로 띄워야 하는 건지?\n  DB to DB -> Batch 로 전환되어야 함\n- Gateway 설치 가능한 외부/내부 아키텍처 구조가 잡혀있는지?\n  현재 안되어 있음. (계약이 내부망만 계약되어 있음)\n  EKS - Pod 로 진행 예정\n  gen 2, agent 2, admin 1, db(mariadb) 2(gateway db, manager db) DB 2대도 가능함\n- 8월 중순 쯤 설치 지원으로 알고 있는데, 변동 이슈가 있는지?\n  8월 초도 가능함.\n- 인터페이스 리스트에서 API 라고 되어 있는 것들만 진행하면 되는지?\n  대응 개발 아성에서 개발하기로 함.\n- 보안 관련 해서 Gateway쪽에 답변 나갔는데, 어떻게 되시는지?\n  API Key 로 할지 Token 으로 할지\n- Pod 로 띄웠을 때 통신구조가 어떻게 되는지?\n  proxy 역할을 함\n- menifast 파일 받아 볼 수 있는지?\n  전달해 주기로 함.\n- 이데아텍 업무 범위 정리 필요\n  \n| **질의사항**                                                                                                               | **답변 사항**                                                                                                                            |\n| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |\n| 외부 통신 할 때 토큰 관리는 APIM에서 해야되는데, ToBe 시스템에서 어떻게 해야 되나요?                                                                  | 업무 그룹별로 나눌 수 있음.<br>토큰 체크 로직 제공하거나 By pass함.<br>                                                                                     |\n| CI/CD가 완료되면 APIM에서 Swagger 문서가 최신 버전으로 자동 변경 되나요?                                                                      | Swagger api 문서가 자동으로 최신으로 변경되는지? 확인후 전달                                                                                              |\n| To Be 환경에서 APIM 구성도가 어떻게 되나요?  <br>아키텍처 설계서 구성도를 받을 수 있나요?                                                             |                                                                                                                                      |\n| 필요 스펙<br><br>- CPU , Memory ,Disk ( S3, EBS )                                                                          | Infra에서 필요한 자료가 필요<br>                                                                                                               |\n| DB 구성 상세 ( Maria DB )<br><br>- 구성방식? (Docker, EC2)<br>    <br>- 별도 DB인지, 이중화 구성여부<br>    <br>- 모니터링                    | 설정 파일이 DB에 있음.<br>                                                                                                                   |\n| TO-BE 구성시 요청하는 산출물 제출 필요<br><br>- 아키텍처 구성도 (본사업내용 적용)<br>    <br>- 인터페이스 흐름 (본사업 내용 적용)<br>    <br>- 운영 메뉴얼 (본사업내용 적용) | 전달 해주 기로 함                                                                                                                           |\n| APIM 자체시스템 알람 기능<br><br>- 연동 지원                                                                                        |                                                                                                                                      |\n| 구축 기간<br><br>- 예상 구축 소요일<br>    <br>- 사전 준비사항 (인프라 등등)                                                                 | 1~3일 정도 소요됨<br><br>2명 정도 투입 예정 (상주 자리 이슈)<br><br>USB 사용 안됨<br>이메일로 파일 전송해서 설치 하는 방식<br>api manager 약 80mb<br>admin 약 70<br>총 약 150mb |",
+    "tags": [
+      "apim",
+      "api",
+      "개발",
+      "어떻게",
+      "파일",
+      "gateway"
+    ],
+    "ts": 1782529760227,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602276745",
+    "text": "# 2026-06-25\n## AA\n\n### 홍태기\n- 개발 가이드 작성\n    - L/T F·W 공통 기능 가이드\n      - 1. Backend\n        - 1-1. 문자열 마스킹\n        - 1-2. 문자열 암복호화 (AES256)\n        - 1-3. 파일 업로드/다운로드\n        - 1-4. 엑셀 업로드 / 다운로드\n        - 1-5. JWT 생성 / 삭제 / 만료시간체크 / 토큰검증\n        - 1-6. Redis, ElastiCache\n        - 1-7. 동기/비동기 HTTP 클라이언트 (HttpUtils)\n        - 1-8. 페이징 처리\n        - 1-9. Swagger (Springdoc)\n        - 1-10. 공통 유틸(String, Array, Date, ...)\n        - 1-11. 다국어 처리\n        - 1-12. 즐겨찾기메뉴\n        - 1-13. 로그인\n        - 1-14. 메뉴 관리\n        - 1-15. 권한 관리\n        - 1-16. 사용자 관리\n        - 1-17. 공통코드 관리\n      - 2. Frontend\n        - 2-1. 모달 팝업(레이어)\n        - 2-2. 메뉴 검색기능\n        - 2-3. 대시보드\n        - 2-4. 2FA 인증\n        - 2-5. 다국어\n        - 2-6. 그리드\n        - 2-7. Chart\n        - 2-8. Editor",
+    "tags": [
+      "관리",
+      "가이드",
+      "공통",
+      "문자열",
+      "업로드",
+      "다운로드"
+    ],
+    "ts": 1782529760228,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602282023",
+    "text": "# 2026-06-26\n## AA\n\n### 홍태기\n-  L/T F·W 공통 기능 작성\n\n<hr>\n## CA\n### 박정우\n레파지토리 서버(온프렘) 비용 공유드립니다.\n기준 : 월 100GB, 아웃바운드  \n    1. AWS(Public IP 레파지토리 서버) -> 레파지토리 서버(온프렘)  :  12.60 달러  \n    2. AWS(VPN 연결시) -> 레파지토리 서버(온프렘) : 2달러\n\n<hr>\n### 회의 내용\n#### 알람/알림 시스템 회의\n\nNTMS Body가 되는 부분을 MainFrame\n\n- 용어정의\n\t- 알림 - noti 발송\n\t- 알람 - schedule 발송\n\n- 자체알람\n\t- 알람1 ~ 10까지 10개까지만 보낼 수 있음.\n\t- 알람이 발송되면 화면에 알람이 뜨는 구조 -> To Be에서 Toast 팝업으로 표시\n\t  ToDo형태 알람 고려\n\n- Teams 알람\n\t- 스케쥴러가 5분간격으로 동작해서 전송하는 방식\n\t- 알람유형, 알람유형별첨부파일\n\t- To Be 시스템에서 DB 저장\n\n- 카카오 알림([cjmplace](https://www.cjmplace.com/front/index.do))\n\t- kakao asung, kakao hmp DB가 postgresql DB로 이사 갈지 말지 결정 필요(조성렬 부장님과 재협의)\n\n- SMS([surem](https://www.surem.co.kr/))",
+    "tags": [
+      "알람",
+      "레파지토리",
+      "서버",
+      "온프렘",
+      "알림",
+      "aws"
+    ],
+    "ts": 1782529760228,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602285181",
+    "text": "# meeting-schedule\n- [x] 2026-06-24 14:00 ~ 15:00 - 502호 회의실 APIM - i-ONE API Gateway (이데아텍) 토큰 회의\n- [x] 2026-06-25 13:30 ~ 15:00 - 502호 회의실 시스템 알림 관련 기술 미팅 -> 일정변경 2026-06-26",
+    "tags": [
+      "2026",
+      "502",
+      "회의실",
+      "meeting",
+      "schedule",
+      "apim"
+    ],
+    "ts": 1782529760228,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602288660",
+    "text": "# admin-module\n# admin-module (L/T Framework v3 공통 라이브러리)\n\n`admin-module`은 **values-play 프레임워크 v3** 에코시스템의 핵심이 되는 **공통 관리자 백엔드 라이브러리**(`java-library`)입니다. 단독 실행형 애플리케이션이 아니며, `admin-work-api` 등 상위 웹 애플리케이션에 탑재되어 동작합니다.\n\n## 1. 개요 및 스펙\n- **위치**: `/Users/hongtaegi/project/values-play/framework/back-api/v3/admin-module`\n- **프로젝트 정보**: `com.valuesplay` / `admin-module` / `3.0.1-SNAPSHOT`\n- **런타임 환경**: Java 21, Spring Boot 3.5.3, MyBatis 3.0.3, Spring Security 6.2.x, JJWT (0.11.2)\n- **주요 책임**: \n  - 플랫폼 관리 기능 (사용자, 부서, 역할, 권한, 메뉴, 다국어 메시지, 약관 등)\n  - 인프라 및 보안 (JWT, Redis 캐싱, 데이터 권한 제어, 민감 데이터 암복호화, 공통 필드 주입)\n  - 유틸리티 (Excel Import/Export, Captcha, OSHI 서버 모니터링, Quartz 스케줄러)\n\n---\n\n## 2. 주요 패키지 및 아키텍처\n최상위 패키지 `com.valuesplay` 아래 3가지 대분류로 구조화되어 있습니다.\n\n### 2.1 `com.valuesplay.common` (프레임워크 공통)\n- `constant`: 캐시, 토큰, HTTP 상태 코드 등 시스템 공통 상수 정의.\n- `utils`: 문자열(`StringUtils`), 날짜(`DateUtils`), 엑셀(`ExcelUtil`), 권한 컨텍스트(`SecurityUtils`), SQL Injection 검증(`SqlUtil`) 등 전역 유틸리티.\n- `exception`: 비즈니스 전용 예외 클래스인 `ServiceException` 정의.\n\n### 2.2 `com.valuesplay.framework` (프레임워크 인프라 설정)\n- `config`: DataSource, Redis, Security, Quartz, Email, Captcha 등 핵심 인프라 설정 Bean 적재.\n- `security`: JWT 토큰 검증 필터(`JwtAuthenticationTokenFilter`) 및 권한 인가 처리.\n- `interceptor`:\n  - MyBatis 실행에 개입하는 플러그인 인터셉터군 (`CommonFieldInterceptor` - 감사 필드 자동 바인딩, `SensitiveFieldInterceptor` - 암복호화, `MaskingInterceptor` - 조회 마스킹).\n  - Spring MVC 인터셉터인 `RoleCheckInterceptor` (메뉴/URI 기반 권한 통제), `RepeatSubmitInterceptor` (API 중복 요청 제어).\n- `aspectj`: `@DataScope` 부서 기반 데이터 권한 제어를 위한 `DataScopeAspect` AOP 처리.\n\n### 2.3 `com.valuesplay.project.db1` (어드민 공통 업무 도메인)\n- `system`: 로그인, 사용자(User), 부서(Dept), 직책(Post), 역할(Role), 메뉴(Menu), 공통코드(Code), 시스템설정(Config), 다국어메시지(Message), 약관(Terms) 등.\n- `common`: 첨부파일(AtchFile), 다운로드 사유(DownloadResn), 알림(Notification), 즐겨찾기(MnuFav), 캡차(Captcha).\n- `monitor`: 로그인 이력(LognHstr), 운영/조작 로그(OperLog), Quartz 스케줄 작업(SysJob), 캐시 통계, 온라인 사용자 목록.\n- `tool`: DB 메타데이터 테이블 정보 기반 Velocity 템플릿 코드 생성기(`tool.gen`).\n\n---\n\n## 3. 핵심 아키텍처 흐름 및 규칙\n\n### 3.1 로그인 및 JWT 인증 흐름\n1. `POST /login`으로 로그인 요청 전달. 사번(`empId`)과 시스템 ID(`sysId`)를 조합하여 인증 진행.\n2. `LoginService.login`에서 캡차 문자열 검증 및 계정 상태 사전 점검.\n3. `AuthenticationManager`를 거쳐 `UserDetailsServiceImpl`이 DB에서 사용자를 찾아 패스워드 검증(SHA512 또는 BCrypt).\n4. 로그인 성공 시 UUID 기반 세션을 발급하여 Redis 또는 DB(`UserToken` 테이블)에 저장하고, JWT를 클라이언트에 전달.\n5. 이후 클라이언트 요청마다 `JwtAuthenticationTokenFilter`가 JWT를 검증하여 `SecurityContextHolder`에 로그인 사용자 정보를 세팅함.\n\n### 3.2 메뉴 기반 API 접근 통제 (`RoleCheckInterceptor`)\n- `UrlPatterns.getExcludedUrls()`에 해당하는 예외 URL은 인증 및 권한 검사 없이 즉시 통과.\n- 이외 요청에 대해서는 `UserRoleDeptService.getEmpRoleCheck`를 기동해 로그인한 사용자의 역할 목록과 요청한 URI 패턴(AntPathMatcher 적용)이 매핑되어 있는지 DB를 조회해 검사. 매핑이 존재하지 않을 시 403 Forbidden 응답 반환.\n\n### 3.3 데이터 권한 범위 통제 (`DataScopeAspect` & `DataScopeSqlDialect`)\n- `@DataScope` 어노테이션이 정의된 서비스 계층 메소드가 실행될 때, 사용자의 역할 등급(`roleDataAtrt`)을 분석하여 데이터 범위 제한용 SQL where 조건절을 동적 생성.\n- 생성된 SQL 조각은 쿼리 바인딩 대상인 `BaseEntity.params[\"dataScope\"]`에 주입되고, MyBatis XML 내에서 `${params.dataScope}`로 반영됨.\n- **다중 DBMS 호환 구현**:\n  - **MySQL**: `FIND_IN_SET` 함수를 적용하여 본인 부서 및 하위 부서의 포함 여부를 검증.\n  - **PostgreSQL**: `FIND_IN_SET` 부재에 따라 `LIKE` 패턴 매칭(`(',' || DEPT_CNTN_PTH || ',') LIKE '%,' || empDeptId || ',%'`)을 통해 하위 부서 포함 여부를 검증하도록 JDBC URL 드라이버 타입을 자동 감지하여 쿼리 분기 처리.\n\n### 3.4 예외 및 에러 공통 처리\n- **정상 예외 처리**: `GlobalExceptionHandler`가 `@RestControllerAdvice`로 비즈니스 오류(`ServiceException` 등)를 포착하여 `AjaxResult` 형태로 JSON 본문에 에러 코드 및 메시지를 응답.\n- **필터/컨테이너 단 예외**: 서블릿 `/error` 위임 시 `CustomErrorController`가 동작하며, 헤더에 `Custom-Client-Type: DMF`가 포함된 경우 항상 HTTP 200 OK 코드를 응답하고 JSON 메시지 내부 code를 통해 에러를 상세 제공함.",
+    "tags": [
+      "권한",
+      "공통",
+      "admin",
+      "로그인",
+      "module",
+      "com"
+    ],
+    "ts": 1782529760229,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602299679",
+    "text": "# admin-ui\n# admin-ui (L/T Framework v3 백오피스 프론트엔드)\n\n`admin-ui`는 **values-play 프레임워크 v3** 에코시스템의 관리자용 SPA(Single Page Application) **프론트엔드 웹 어플리케이션**입니다. (애플리케이션 타이틀: **\"Global OMS\"**)\n\n## 1. 개요 및 스펙\n- **위치**: `/Users/hongtaegi/project/values-play/framework/admin-front/v3/admin-ui`\n- **핵심 기술 스택**: \n  - Framework: Vue 3 (Composition API / SFC)\n  - UI Library: Element Plus (2.9.11)\n  - Build Tool: Vite 7\n  - Language: TypeScript (~5.8.3)\n  - State Management: **Vuex v4.0.2** (주의: Pinia가 아니며 레거시와의 호환성 및 안정성을 위해 Vuex 4 구조를 고수함)\n- **로컬 실행 및 빌드 스크립트**:\n  - 로컬 개발 서버 기동: `npm run local` (로컬 개발 서버 포트: `1040`)\n  - 개발 빌드: `npm run dev`\n  - 기타 환경별 빌드 스크립트: `build:prod`, `build:tmp`, `build:pq`, `build:stage`, `build:dev`, `build:local`\n\n---\n\n## 2. 주요 폴더 구조 및 역할\n`src/` 디렉터리는 역할별로 고도로 모듈화되어 구성되어 있습니다.\n\n```text\nsrc/\n├── api/                # Axios 기반 백엔드 엔드포인트 호출 모듈 (user.js, menu.js 등)\n├── assets/             # 글로벌 SCSS 스타일시트, 폰트 및 이미지 에셋\n├── components/         # 전역 공통 재사용 Vue 컴포넌트 (페이징, 브레드크럼 등)\n├── composables/        # 리액티브 상태 및 반복 비즈니스 로직 재사용을 위한 Custom Hooks\n├── directive/          # 커스텀 디렉티브 (버튼 레벨 권한 검증용 v-hasPermi 등)\n├── i18n/               # 다국어(i18n) 설정 및 초기화 스크립트\n├── layout/             # 대시보드 사이드바, 네비바, 태그뷰 등 기본 프레임 구조 정의\n├── locales/            # 다국어 번역 리소스 파일 (ko.json, en.json)\n├── plugins/            # 외부 플러그인 설정 (Element Plus 플러그인 등)\n├── router/             # Vue Router 경로 정의 및 가드 설정\n├── store/              # Vuex v4 전역 상태 관리 모듈 (User 세션, 테마 상태 등)\n├── utils/              # 포맷터, 토큰 제어, 암호화 유틸리티\n├── views/              # 도메인별 개별 화면 Page 컴포넌트 (사용자, 메뉴, 역할 등)\n├── App.vue             # 최상위 Root 컴포넌트\n├── main.js             # 애플리케이션 진입점 및 Vue 인스턴스 초기화 스크립트\n├── permission.js       # 라우터 Guard 및 세션 유효성 인증 제어 핵심 파일\n└── settings.js         # 글로벌 애플리케이션 속성 설정\n```\n\n---\n\n## 3. 런타임 통제 및 보안 메커니즘\n애플리케이션 구동 시 사용자의 상태를 식별하고, 비인가 접근을 제어하며, 공통 네트워크 환경을 보호하기 위해 3가지 계층의 제어 흐름이 연동됩니다.\n\n```mermaid\nflowchart TD\n    subgraph ClientSPA [\"Vue 3 SPA admin-ui\"]\n        UIComp[\"Vue 3 Components\"]\n        Router[\"Vue Router v4\"]\n        PermGuard[\"Navigation Guard (permission.js)\"]\n        VuexStore[\"Vuex Store user/permission\"]\n        TokenStore[\"Local Storage JWT\"]\n        AxiosClient[\"Axios HTTP Client\"]\n    end\n\n    subgraph Backend [\"Backend API\"]\n        Gateway[\"REST Endpoints\"]\n    end\n\n    UIComp -->|이동 요청| Router\n    Router -->|라우트 검사| PermGuard\n    PermGuard -->|1. JWT 확인| TokenStore\n    PermGuard -->|2. 세션/권한 확인| VuexStore\n    PermGuard -->|3. 라우터 유도| Backend\n    Backend -->|메뉴 데이터 반환| PermGuard\n    PermGuard -->|4. 동적 addRoute 주입| Router\n    \n    UIComp -->|API 요청 발생| AxiosClient\n    AxiosClient -->|Request: JWT 삽입| TokenStore\n    AxiosClient -->|HTTP 전송| Gateway\n    Gateway -->|Response: AjaxResult| AxiosClient\n    AxiosClient -->|5. 401 에러 감지 시| VuexStore\n    VuexStore -->|세션 폭파 및 리다이렉트| TokenStore\n```\n\n### 3.1 내비게이션 라우터 가드 (`permission.js`)\n- 사용자가 라우팅을 시도할 때 `Vue Router`가 이를 캡처하여 검사 수행.\n- 브라우저의 `localStorage`에서 JWT 토큰을 판독.\n  - 토큰이 존재하지만 Vuex 스토어에 사용자 세션 정보 및 메뉴 권한 목록이 비어있다면, 백엔드의 `/getRouters` API를 비동기 호출.\n  - 응답받은 메뉴 구조를 Dynamic Route로 생성하여 `router.addRoute()`로 런타임에 삽입하고 사이드바 메뉴 트리를 reactive하게 동기화.\n  - 만약 토큰이 없다면 화이트리스트(로그인 페이지 등)를 제외하고 무조건 로그인 화면으로 강제 유도.\n\n### 3.2 Axios Interceptors\n- **Request Interceptor**:\n  - 서버로 나가는 모든 HTTP 요청을 가로채서 `localStorage`의 JWT 토큰을 꺼내 `Authorization: Bearer <token>` 헤더로 공통 삽입함.\n  - 또한 다국어 지원을 위해 현재 선택된 로케일 헤더를 함께 실어 보냄.\n- **Response Interceptor**:\n  - 백엔드로부터 온 JSON 응답(`AjaxResult`) 객체를 수신하고 오류 여부를 모니터링.\n  - **401 Unauthorized (`code == 401`) 감지**: 사용자의 로그인 토큰이 만료되었거나 임의 조작된 경우로 판단하여, 즉시 Vuex 내의 전역 사용자 상태 및 `localStorage`의 토큰 정보를 소거(폭파)하고 `/login` 페이지로 리다이렉트 유도.\n  - **기타 서버 에러 (`code == 500` 등)**: Element Plus의 전역 토스트 팝업(`ElMessage.error`)을 발생시켜 사용자에게 에러 상태를 시각적으로 전파함.",
+    "tags": [
+      "vue",
+      "router",
+      "build",
+      "permguard",
+      "admin",
+      "vuex"
+    ],
+    "ts": 1782529760229,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602303733",
+    "text": "# admin-work-api\n# admin-work-api (L/T Framework v3 실행형 API 서버)\n\n`admin-work-api`는 **values-play 프레임워크 v3** 에코시스템에서 백엔드 API를 실제로 서비스하고 배포하기 위한 **실행형 Spring Boot 애플리케이션**입니다. 공통 라이브러리인 `admin-module`의 소스를 합성하여 구동하는 Composite Build 구조를 취하고 있습니다.\n\n## 1. 개요 및 스펙\n- **위치**: `/Users/hongtaegi/project/values-play/framework/back-api/v3/admin-work-api`\n- **런타임 환경**: Java 21, Spring Boot 3.5.3, MyBatis 3.0.3, Spring Security 6.2.x, Redis (Lettuce/Jedis 클라이언트)\n- **핵심 아키텍처 패턴**: CQRS (Command-Query Responsibility Segregation)\n- **로컬 빌드 메커니즘**:\n  - `settings.gradle`의 `includeBuild('../admin-module')` 설정을 활용하여 `admin-module`의 소스 변경 사항이 로컬 기동 시 실시간으로 반영 빌드됨.\n\n---\n\n## 2. CQRS 다중 데이터소스(Multi-Datasource) 설계\n쓰기(CUD) 연산과 읽기(Query) 연산의 부하를 격리하고 성능을 최적화하기 위해 물리적으로 구분된 데이터소스를 런타임에 라우팅하여 운용합니다.\n\n```mermaid\nflowchart TD\n    BFF[\"REST Controller (MVC)\"]\n    \n    subgraph WritePipeline [\"Command Pipeline (쓰기)\"]\n        CmdService[\"Command Service\"]\n        CmdMapper[\"Command Mapper\\n(com.oliveyoung.project.**.mapper.command)\"]\n        CmdDB[(\"secondaryCommandDataSource\\n(Write/CUD PostgreSQL)\")]\n    end\n\n    subgraph ReadPipeline [\"Query Pipeline (읽기)\"]\n        QryService[\"Query Service\"]\n        QryMapper[\"Query Mapper\\n(com.oliveyoung.project.**.mapper.query)\"]\n        QryDB[(\"secondaryQueryDataSource\\n(Read-Only PostgreSQL)\")]\n    end\n\n    BFF -->|CUD 요청 (POST/PUT/DELETE)| CmdService\n    BFF -->|단순 조회 (GET)| QryService\n    \n    CmdService --> CmdMapper\n    CmdMapper --> CmdDB\n    \n    QryService --> QryMapper\n    QryMapper --> QryDB\n    \n    CmdDB -.->|DB Replication 복제| QryDB\n```\n\n### 2.1 데이터소스 구성 정보\n- **`primaryDataSource`**:\n  - `admin-module` 프레임워크가 필요로 하는 기본 관리 정보(공통코드, 메뉴, 사용자 세션, 시스템 변수 등) 테이블에 접근하는 기본 데이터소스.\n- **`secondaryCommandDataSource`** (쓰기 전용):\n  - 프로퍼티 접두사: `spring.datasource.hikari.secondary.command`\n  - MyBatis 스캔 범위: `com.oliveyoung.project.**.mapper.command` 패키지 및 하위\n  - Hikari CP 설정을 통해 쓰기 전용 커넥션 풀을 구성하여 업무 CUD 쿼리를 전담 처리.\n- **`secondaryQueryDataSource`** (읽기 전용):\n  - 프로퍼티 접두사: `spring.datasource.hikari.secondary.query`\n  - MyBatis 스캔 범위: `com.oliveyoung.project.**.mapper.query` 패키지 및 하위\n  - 읽기 전용으로 동작하며 Command DB로부터 실시간 복제(DB Replication)되는 타겟을 대상으로 함.\n\n### 2.2 기동 시 커넥션 유효성 검증 (`MultiDataSourceConnectionValidator`)\n- **역할**: 애플리케이션 시작 직후, 런타임에 사용할 각 데이터소스의 커넥션 상태를 사전 검사하여 안정적인 기동을 확보하는 헬스체크 컴포넌트.\n- **구동 시점**: Spring Container 초기화 완료 및 준비가 끝난 시점인 `ApplicationReadyEvent` 발생 시 호출됨.\n- **동작 원리**:\n  - `db.validate-on-startup` 속성이 `true`인 경우, `primary`, `secondaryCommand`, `secondaryQuery` 세 가지 데이터소스에 차례로 접근하여 단순 쿼리(`SELECT 1`)를 수행해 봄으로써 실제 물리적 네트워크 연결성 및 권한을 사전 검증.\n  - 하나의 커넥션이라도 실패할 경우 기동 실패로 간주하여 사전에 장애를 예방.\n- **초기화 순서 제어**:\n  - 데이터소스들이 Jasypt 복호화 Bean 기동 후 완전하게 수립될 수 있도록 `@DependsOn(\"jasyptEncryptorDES\")` 관계가 인프라 설정 단에 명시되어 있음.\n\n---\n\n## 3. 개발 및 마이그레이션 가이드라인\n- **데이터베이스 전환**:\n  - 하이브리드 환경(MySQL ➡️ PostgreSQL) 이행 단계에 맞춰, 각 런타임 프로파일(`application-dev.yml`, `application-local.yml` 등)에 정의된 JDBC 드라이버(`org.postgresql.Driver` vs `com.mysql.cj.jdbc.Driver`) 정보와 데이터베이스 주소 설정을 교차 확인해야 함.\n- **CQRS 매퍼 작성 규칙**:\n  - 패키지 경로에 따라 데이터소스가 컴파일/기동 시에 강제 바인딩되므로, 단순 조회 쿼리를 담당하는 Mapper 인터페이스는 반드시 `com.oliveyoung.project.**.mapper.query` 아래에 위치시키고, 상태를 수정하는 CUD 인터페이스는 `com.oliveyoung.project.**.mapper.command` 아래에 정의해야 함.\n  - 비즈니스 서비스 구현 클래스(`ServiceImpl`)는 데이터의 변경 유무에 맞춰 Command Mapper와 Query Mapper를 각각 적절히 주입(Inject)받아 호출하도록 구성.",
+    "tags": [
+      "mapper",
+      "command",
+      "query",
+      "admin",
+      "api",
+      "project"
+    ],
+    "ts": 1782529760231,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602317604",
+    "text": "# 1. 암호화 키 관리 방법\n# 1. 암호화 키 관리 방법\n\nSpring Boot 애플리케이션에서 Jasypt 암호화 키를 안전하게 관리하기 위한 두 가지 아키텍처(케이스 1, 케이스 2)의 최종 정리입니다. \n\n두 방식 모두 런타임 시점에는 AWS 호출 없이 최초 기동 시 1회만 키를 가져와 메모리에 적재(캐싱)하므로 성능 저하가 없는 안전한 구조입니다.\n\n## 1-1. 케이스별 핵심 요약\n\n##### 케이스 1: AWS KMS + 환경별 yml 분리 방식\n\n구조: application-dev.yml, application-stg.yml, application-prd.yml 등 환경별로 설정 파일이 명확히 분리되어 존재합니다.\n\n특징: Git 등의 소스코드 저장소에 Jasypt 암호화 키 자체가 KMS로 암호화된 텍스트 형태로 포함되어 저장됩니다.\n\n동작: 서버 기동 시 해당 환경의 yml을 읽고, 내부에 적힌 암호화된 키를 AWS KMS API를 통해 딱 1번 복호화하여 메모리에 평문으로 올린 후 사용합니다.\n\n##### 케이스 2: AWS Secrets Manager + 단일 yml 변수 바인딩 방식\n\n구조: 환경에 상관없이 오직 단 하나의 application.yml 파일만 존재하며, 내부에는 실제 값 대신 ${ENV_JASYPT_KEY}와 같은 치환자(환경 변수)만 적혀 있습니다.\n\n특징: 소스코드나 Git 저장소에 키 관련 데이터가 전혀 남지 않으며, 실제 Jasypt 키 값은 AWS Cloud(Secrets Manager) 내부에서만 변수 형태로 관리됩니다.\n\n동작: 서버 기동 시 현재 활성화된 프로파일에 맞춰 AWS Secrets Manager에서 해당하는 시크릿 값을 딱 1번 동적으로 조회해 yml 치환자에 바인딩하고 메모리에 적재합니다.\n\n## 1-2. 최종 비교 장표 (한눈에 보기)\n| **비교 항목**              | **케이스 1: AWS KMS**                                                        | **케이스 2: AWS Secrets Manager** |\n| ---------------------- | ------------------------------------------------------------------------- | ------------------------------ |\n| **설정 파일(yml) 개수**      | 환경별로 각각 존재 (dev, stg, prd)                                                | 단 1개로 통합 관리                    |\n| **형상 관리 (Git) 보안**     | 암호화된 키 스트링이 Git에 노출됨                                                      | Git에 키 관련 흔적이 전혀 없음            |\n| **AWS API 호출 시점**      | **애플리케이션 구동 시 최초 1회만 호출**                                                 | **애플리케이션 구동 시 최초 1회만 호출**      |\n| **런타임 성능 및 Latency**   | 없음 (메모리 캐싱 방식)                                                            | 없음 (메모리 캐싱 방식)                 |\n| **월 예상 비용 (3개 환경 기준)** | **약 $3.00 / 월** (개별 키 생성 시)<br><br>  <br><br>_(하나의 키 공유 시 $1.00까지 절감 가능)_ | **약 $1.20 / 월** (시크릿 3개 저장 기준) |\n| **장점**                 | 전통적인 프로파일 분리 방식이라 직관적임                                                    | 소스코드가 완벽히 깔끔해지며 중앙 집중 관리 가능    |\n\n\n## 1-3. 아키텍처 선택 가이드 (Recommendation)\n\n이런 경우 '케이스 1 (AWS KMS)'을 추천합니다:\n\n기존 프로젝트가 이미 application-환경.yml 형태로 꼼꼼하게 분리되어 관리되고 있는 경우\n\n암호화된 문자열이라도 Git 리포지토리에 올라가는 것에 거부감이 없는 경우\n\nAWS KMS 내에서 하나의 마스터 키만 공유해 사용하여 비용을 극단적으로($1.00/월) 아끼고 싶은 경우\n\n이런 경우 '케이스 2 (AWS Secrets Manager)'를 추천합니다:\n\n\"소스코드 및 Git에는 그 어떤 암호화된 키조차 남기지 않겠다\"는 엄격한 보안 거버넌스를 따르는 경우\n\n환경별로 yml 파일이 늘어나는 것이 싫고, 단 하나의 application.yml로 깔끔하게 템플릿화하여 관리하고 싶은 경우\n\n추후 DB 패스워드나 API 토큰 등 다른 민감 정보도 AWS 콘솔에서 한 번에 중앙 관리(및 자동 로테이션)하고 싶은 경우\n\n![1781158779584.png](/project/asung/1781158779584.png)\n\n\n## 2. Spring Batch (Batch)\n\nSpring Batch 아키텍처에서도 케이스 1(AWS KMS + 환경별 yml 분리 + 기동 시 최초 1회 메모리 적재) 방식은 동일하게 적용할 수 있으며, 배치 애플리케이션의 특성상 몇 가지 중요한 차별점과 장점이 존재합니다.\n\nSpring Batch 환경에서의 동작 구조와 핵심 포인트를 정리해 드립니다.\n\n## 2-1. Spring Batch에서의 케이스 1 동작 프로세스\n\n일반적인 REST API(Spring Boot)는 서버가 24시간 켜져 있는 상태에서 최초 기동 시 1회 로드되지만, Spring Batch는 크론탭(Crontab), Jenkins, AWS ECS Task 등을 통해 주기적으로 가동(Short-lived Task)되는 경우가 많습니다.\n\n배치 잡(Job) 실행 (최초 1회): 스케줄러에 의해 Spring Batch 애플리케이션이 구동되면서 지정된 환경 파일(application-prd.yml)을 읽습니다.\n\nKMS 단회 호출: 배치가 실행되는 시점에 설정 파일 속 Jasypt 암호화 키를 복호화하기 위해 AWS KMS API를 딱 1번 호출합니다.\n\n메모리 적재 및 Job 수행: 복호화된 평문 키를 메모리에 올린 후, Jasypt가 DB 패스워드 등을 복호화하여 커넥션을 맺습니다. 이후 Batch Job(ItemReader $\\rightarrow$ ItemProcessor $\\rightarrow$ ItemWriter)이 완료될 때까지 이 메모리에 있는 키를 사용합니다.\n\n프로세스 종료: 배치가 끝나면 애플리케이션 프로세스가 종료되면서 메모리에 있던 평문 키도 함께 소멸합니다.\n\n## 2-2. Spring Batch 적용 시 핵심 차별점 및 고려사항\n\nSpring Batch에서 이 구조를 사용할 때 반드시 알아두어야 할 특징들입니다.\n\n메모리 보안성 극대화: REST API 서버처럼 평문 키가 메모리에 계속 남아있는 것이 아니라, 배치 프로세스가 실행되는 동안에만 메모리에 존재하고 작업이 끝나면 완전히 증발하므로 보안상 더욱 안전합니다.\n\n배치 주기와 AWS KMS API 호출 비용 관계:\n\n배치 애플리케이션이 1시간에 1번 혹은 하루에 1번 실행되는 구조라면 한 달 총 KMS 호출 횟수는 수십~수백 번에 불과합니다. 앞서 계산한 대로 AWS KMS의 월 20,000회 무료 티어 범위를 절대 초과하지 않으므로 API 호출 비용은 사실상 $0입니다.\n\n단, 대규모 청크(Chunk) 반복 시 주의 (성능 측면):\n\n간혹 구현 실수로 Jasypt 복호화 메서드가 대량의 데이터를 처리하는 ItemProcessor 내부에서 매번 호출되도록 설정하는 경우가 있습니다. 케이스 1 구조에서는 최초 기동 시 yml을 로드할 때 1번만 KMS를 바라보고 복호화하므로, 천만 건의 데이터를 처리하는 배치 룹(Loop)이 돌더라도 AWS KMS로 인한 병목 현상이나 추가 비용이 전혀 발생하지 않습니다.\n\n## 2-3.",
+    "tags": [
+      "aws",
+      "yml",
+      "kms",
+      "케이스",
+      "spring",
+      "batch"
+    ],
+    "ts": 1782529760232,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602324186",
+    "text": "# 1. Backend\n# 1. Backend\n## 1-1. 문자열 마스킹\n\n### 1-1-1. 개요\n\n애플리케이션 내의 개인정보 보호(Privacy) 및 보안 거버넌스(Security Governance)를 준수하기 위해 로그인 ID, 이메일, 전화번호, 이름 등 민감한 문자열을 마스킹하여 반환하는 기능입니다.\n\nLT Framework에서는 크게 두 가지 계층에서 마스킹 처리를 자동화합니다.\n\n#### 1-1-1-1. MyBatis ResultInterceptor 기반 자동 마스킹\n- MyBatis를 사용해 DB 데이터를 조회할 때, 도메인/VO 클래스의 특정 필드에 `@Masked` 어노테이션을 부착하여 자동으로 마스킹된 값을 결과 셋에 바인딩합니다.\n- `MaskingResultSetHandlerInterceptor` 클래스에서 이 처리를 수행합니다.\n\n#### 1-1-1-2. RestController ResponseBodyAdvice 기반 API Response 마스킹\n- API 컨트롤러가 클라이언트(Frontend)로 데이터를 반환할 때, 최종 JSON 결과물 내의 민감 필드를 캐싱된 리플렉션 기술로 찾아 마스킹합니다.\n- `ResponseMaskedAdvice` 클래스에서 이 처리를 수행합니다.\n\n---\n\n### 1-1-2. 코드 설명\n\n#### 1-1-2-1. 공통 마스킹 유틸리티 (`MaskingUtil.java`)\n\n```java\npackage com.valuesplay.common.utils;\n\npublic class MaskingUtil {\n    // 아이디 마스킹 (뒷부분 지정된 자릿수 마스킹)\n    public static String maskId(String id, int digit) {\n        if (id == null) return null;\n        if (id.length() <= digit) {\n            return id.substring(0, 1) + \"*\".repeat(id.length() - 1);\n        }\n        return id.replaceAll(\".{\" + digit + \"}$\", \"*\".repeat(id.length() - 1));\n    }\n\n    // 이메일 마스킹 (아이디 뒷 3자리 마스킹)\n    public static String maskEmail(String email) {\n        if (email == null) return null;\n        int atIndex = email.indexOf('@');\n        if (atIndex == -1) return email;\n\n        String idPart = email.substring(0, atIndex);\n        String domainPart = email.substring(atIndex);\n\n        String maskedIdPart = idPart.length() <= 5 \n            ? idPart.substring(0, 2) + \"*\".repeat(idPart.length() - 2)\n            : idPart.substring(0, idPart.length() - 3) + \"***\";\n\n        return maskedIdPart + domainPart;\n    }\n\n    // 핸드폰 번호 마스킹 (가운데 4자리 마스킹)\n    public static String maskPhoneNumber(String phoneNumber) {\n        if (phoneNumber == null) return null;\n        return phoneNumber.replaceAll(\"(\\\\d{3})(\\\\d{4})(\\\\d{4})\", \"$1****$3\");\n    }\n\n    // 이름 마스킹 (건너뛰며 * 처리)\n    public static String maskName(String name) {\n        if (name == null || StringUtils.isEmpty(name)) return name;\n        StringBuilder mask = new StringBuilder();\n        for (int i = 0; i < name.length(); i += 2) {\n            mask.append(name.charAt(i));\n            if (i + 1 < name.length()) {\n                mask.append(\"*\");\n            }\n        }\n        return mask.toString();\n    }\n}\n```\n\n#### 1-1-2-2. 도메인 필드 어노테이션 정의 (`@Masked`)\n\n```java\npackage com.valuesplay.framework.interceptor.annotation;\n\nimport java.lang.annotation.*;\n\n@Retention(RetentionPolicy.RUNTIME)\n@Target(ElementType.FIELD)\npublic @interface Masked {\n    MaskType type();\n\n    enum MaskType {\n        ID, EMAIL, PHONE, NAME\n    }\n}\n```\n\n#### 1-1-2-3. 도메인 적용 예제 (`User.java`)\n\n```java\npublic class User {\n    private Long userId;\n\n    @Masked(type = Masked.MaskType.ID)\n    private String empLognId; // 사용자 아이디 (마스킹 적용)\n\n    @Masked(type = Masked.MaskType.NAME)\n    private String empNm;     // 사용자 이름 (마스킹 적용)\n\n    @Masked(type = Masked.MaskType.EMAIL)\n    private String empEmail;  // 이메일 (마스킹 적용)\n}\n```\n\n---\n\n### 1-1-3. 참고자료\n\n- `com.valuesplay.common.utils.MaskingUtil`\n- `com.valuesplay.framework.interceptor.MaskingResultSetHandlerInterceptor`\n\n## 1-2. 문자열 암복호화 (AES256)\n\n### 1-2-1. 개요\n\n데이터베이스에 주민등록번호, 카드번호, 계좌번호 등 민감 정보를 저장하거나 조회할 때 보안 규정을 충족하기 위해 단방향(해시) 또는 양방향 암호화를 수행하는 기능입니다. \n\nLT Framework에서는 기본적으로 비밀번호 수준의 민감 키를 Jasypt 설정 패스워드와 연동하여 SHA-256 기반의 해싱 키와 CBC 모드의 AES-256 알고리즘을 사용해 데이터를 양방향 암복호화 처리합니다.\n\n#### 1-2-1-1. 주요 암호화 컴포넌트\n\n- `AES256Util`: AES-256 알고리즘(AES/CBC/PKCS5Padding) 및 SHA-256 단방향 키 유도 함수를 내장한 양방향 암복호화 유틸리티\n- **동작 원리**:\n  1. 기동 시 yml의 `jasypt.encryptor.password` 설정 값을 가져와 SHA-256 단방향 해싱하여 256비트(32바이트) 비밀 키 생성\n  2. 암호화 시 `SecureRandom`을 사용해 매번 임의의 16바이트 IV(초기화 벡터) 생성\n  3. IV와 암호화된 본문 데이터를 결합하여 최종 Base64 인코딩 스트링 생성\n  4. 복호화 시 Base64 디코딩 후 앞 16바이트 IV를 분리해 안전하게 평문 복구\n\n---\n\n### 1-2-2. 코드 설명\n\n#### 1-2-2-1. 양방향 암복호화 유틸리티 (`AES256Util.java`)\n\n```java\npackage com.valuesplay.common.utils;\n\nimport org.springframework.beans.factory.annotation.Value;\nimport org.springframework.stereotype.C",
+    "tags": [
+      "마스킹",
+      "string",
+      "return",
+      "masked",
+      "name",
+      "java"
+    ],
+    "ts": 1782529760232,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602329302",
+    "text": "# common-framework-features\n| **No** | **기능명**                                      | **설명**                              | 참고 자료                                                                                                                                                                                                                                                     |\n| ------ | -------------------------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| 1      | 문자열 마스킹                                      | 문자열을 마스킹 하는 기능                      | [[backend-lt-framework-common-features#1-1-문자열-마스킹|1-1. 문자열 마스킹]]                                                                                                                                                                                           |\n| 2      | 문자열 암복호화 (AWS KMS)                           | 문자열을 암호화 하는 기능                      | [[backend-lt-framework-common-features#1-2-문자열-암복호화-aes256|1-2. 문자열 암복호화 (AES256)]]                                                                                                                                                                         |\n| 3      | 파일 업로드/다운로드 (AWS S3)                         | 파일을 업로드, 다운로드 하는 기능                 | [1-3. 파일 업로드/다운로드](https://wiki.valuesplay.com/ko/project/asung/%EC%84%A4%EA%B3%84/6#:~:text=%C2%B6-,3.%20%ED%8C%8C%EC%9D%BC%20%EC%97%85%EB%A1%9C%EB%93%9C/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C,-%EC%83%98%ED%94%8C%20%EC%86%8C%EC%8A%A4%EC%9D%98%20CRUD) |\n| 4      | Excel 업로드/다운로드(POI)                          | 엑셀 업로드/다운로드                         | [1-4. 엑셀 업로드 / 다운로드](https://wiki.valuesplay.com/ko/project/asung/%EC%84%A4%EA%B3%84/6#:~:text=%C2%B6-,4.%20%EC%97%91%EC%85%80%20%EC%97%85%EB%A1%9C%EB%93%9C%20/%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C,-4%2D1.%20%EC%97%91%EC%85%80)                     |\n| 5      | JWT 생성 / 삭제 / 만료시간체크 / 토큰검증                  | JWT를 사용하는 기능                        | [[backend-lt-framework-common-features#1-5-jwt-생성--삭제--만료시간체크--토큰검증|1-5. JWT 생성 / 삭제 / 만료시간체크 / 토큰검증]]                                                                                                                                                      |\n| 6      | Redis, ElastiCache                           | 개인 정보, Cache Data 저장하는 기능           | [[backend-lt-framework-common-features#1-6-redis-elasticache|1-6. Redis, ElastiCache]]                                                                                                                                                                      |\n| 7      | 동기(RestClient)/비동기,반응형(WebClient) HTTP 클라이언트 | 동기/비동기, 반응형으로 HTTP 통신하는 기능          | [[backend-lt-framework-common-features#1-7-동기비동기-http-클라이언트-httputils|1-7. 동기/비동기 HTTP 클라이언트 (HttpUtils)]]                                                                                                                                                  |\n| 8      | 페이징 처리                                       | 리스트 데이터의 페이징을 적용하여 조회하는 기능          | [[backend-lt-framework-common-features#1-8-페이징-처리|1-8. 페이징 처리]]                                                                                                                                                                                             |\n| 9      | Swagger (Springdoc)                          | API를 문서화하고 테스트 할 수 있게 하는 기능         | [[backend-lt-framework-common-features#1-9-swagger-springdoc|1-9. Swagger (Springdoc)]]                                                                                                                                                                            |\n| 10     | 공통 유틸(String, Array, Date, ...)              | String, Object, Array 등등 각종 유틸리티 함수 | [[backend-lt-framework-comm",
+    "tags": [
+      "backend-lt-framework-common-features#1-1-문자열-마스킹|1-1. 문자열 마스킹",
+      "backend-lt-framework-common-features#1-2-문자열-암복호화-aes256|1-2. 문자열 암복호화 (AES256)",
+      "backend-lt-framework-common-features#1-5-jwt-생성--삭제--만료시간체크--토큰검증|1-5. JWT 생성 / 삭제 / 만료시간체크 / 토큰검증",
+      "backend-lt-framework-common-features#1-6-redis-elasticache|1-6. Redis, ElastiCache",
+      "backend-lt-framework-common-features#1-7-동기비동기-http-클라이언트-httputils|1-7. 동기/비동기 HTTP 클라이언트 (HttpUtils)",
+      "backend-lt-framework-common-features#1-8-페이징-처리|1-8. 페이징 처리",
+      "backend-lt-framework-common-features#1-9-swagger-springdoc|1-9. Swagger (Springdoc)",
+      "framework",
+      "common",
+      "features",
+      "기능",
+      "backend",
+      "문자열"
+    ],
+    "ts": 1782529760258,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602585244",
+    "text": "# development-environment-architecture\n```mermaid\ngraph LR\n\n    %% 스타일 클래스 정의\n\n    classDef dev fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;\n\n    classDef ai fill:#ede7f6,stroke:#5e35b1,stroke-width:2px;\n\n    classDef git fill:#fbe9e7,stroke:#d84315,stroke-width:2px;\n\n    classDef infra fill:#f1f8e9,stroke:#558b2f,stroke-width:2px;\n\n    classDef build fill:#fff8e1,stroke:#f9a825,stroke-width:2px;\n\n    classDef backend fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;\n\n    classDef frontend fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px;\n\n  \n\n    %% 1~5 단계: DevOps 파이프라인\n\n    subgraph Pipeline [\"DevOps Pipeline\"]\n\n        A[\"1. Developer\"]:::dev\n\n        B[\"2. Cursor AI & Claude 4.6\"]:::ai\n\n        C[\"3. Git (Local)\"]:::git\n\n        D[\"4. GitLab (Remote)\"]:::git\n\n        E[\"5. Nexus\"]:::infra\n\n    end\n\n  \n\n    %% 6~7 단계: 빌드 도구\n\n    subgraph BuildEnv [\"Build Environment\"]\n\n        F[\"6. JAVA 21\"]:::build\n\n        G[\"7. Gradle 9.3\"]:::build\n\n    end\n\n  \n\n    %% 8단계: 백엔드 스택\n\n    subgraph BackendStack [\"8. Backend: Spring Boot Ecosystem\"]\n\n        SB[\"Spring Boot Core\"]\n\n        SS[\"Spring Security\"]\n\n        MB[\"MyBatis\"]\n\n        DB[(\"PostgreSQL\")]\n\n        JWT[\"JWT Auth\"]\n\n        EC[(\"AWS ElastiCache\")]\n\n        KMS[\"AWS KMS\"]\n\n        S3[(\"AWS S3\")]\n\n    end\n\n    class BackendStack backend;\n\n  \n\n    %% 9단계: 프론트엔드 스택\n\n    subgraph FrontendStack [\"9. Frontend\"]\n\n        VUE[\"Vue3\"]\n\n        VITE[\"Vite\"]\n\n    end\n\n    class FrontendStack frontend;\n\n  \n\n    %% --- 데이터 및 프로세스 흐름 연결 ---\n\n    %% 개발 및 형상관리 흐름\n\n    A --> B\n\n    B --> C\n\n    C --> D\n\n    D --> E\n\n  \n\n    %% 빌드 및 백엔드 연결\n\n    E -.-> G\n\n    F --> SB\n\n    G --> SB\n\n  \n\n    %% 백엔드 내부 아키텍처 흐름\n\n    SB --> SS\n\n    SB --> MB\n\n    MB --> DB\n\n    SB --> JWT\n\n    SB --> EC\n\n    SB --> KMS\n\n    SB --> S3\n\n  \n\n    %% 프론트엔드 연결\n\n    VUE <--> VITE\n\n    SB <-->|\"API (REST / JWT)\"| VUE\n```",
+    "tags": [
+      "stroke",
+      "classdef",
+      "fill",
+      "width",
+      "2px",
+      "git"
+    ],
+    "ts": 1782529760258,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602588083",
+    "text": "# 1. 프론트엔드 코딩 규칙 (Coding Convention) 가이드\n# 1. 프론트엔드 코딩 규칙 (Coding Convention) 가이드\n\n본 가이드는 `admin-ui` 프로젝트의 코드 품질을 유지하고, 개발자 간의 일관된 협업을 위해 정의된 프론트엔드 표준 코딩 규칙입니다.\n\n## 1.1 기본 포맷팅 규칙 (Prettier 설정 기준)\n프로젝트 루트의 `.prettierrc` 설정에 의거하여 코드를 작성합니다. 모든 파일은 저장 시 자동으로 포맷팅되도록 IDE 설정을 권장합니다.\n\n* **세미콜론 (Semicolons):** **미사용** (`\"semi\": false`)\n  * 문장 끝에 세미콜론(`;`)을 붙이지 않습니다.\n* **따옴표 (Quotes):** **홑따옴표 사용** (`\"singleQuote\": true`)\n  * JavaScript/TypeScript 문자열 및 Vue 템플릿 내 속성 값에는 홑따옴표(`'`)를 사용합니다.\n* **들여쓰기 (Indentation):** **스페이스 2칸** (`\"tabWidth\": 2`)\n  * 탭(Tab) 대신 공백 2칸을 사용합니다.\n* **줄 바꿈 폭 (Print Width):** **최대 120자** (`\"printWidth\": 120`)\n  * 코드 한 줄이 120자를 초과할 경우 줄 바꿈을 적용합니다.\n* **마지막 쉼표 (Trailing Commas):** **미사용** (`\"trailingComma\": \"none\"`)\n  * 객체나 배열 선언의 마지막 원소 뒤에 쉼표(`,`)를 추가하지 않습니다.\n\n---\n\n## 1.2 코드 스타일 & 린트 (ESLint & Airbnb)\n프로젝트는 `Airbnb 스타일 가이드` 기반 위에 `Vue 3 필수 규칙`을 결합한 린트 환경을 사용합니다.\n\n* **컴포넌트 이름 관련 린트 예외:** (`'vue/multi-word-component-names': 0`)\n  * Vue 공식 규칙과 달리 단일 단어로 구성된 컴포넌트 파일명(예: `index.vue`, `login.vue`) 생성을 허용합니다.\n* **Import 시 확장자 생략 규칙:**\n  * `.js`, `.ts`, `.jsx`, `.tsx`, `.vue` 파일은 import 시 **확장자를 생략**합니다.\n  * *예시:* `import { listType } from '@/api/system/dict/type'`\n* **별칭 경로 (Path Alias) 사용:**\n  * 프로젝트 루트(`src`) 경로는 매핑 별칭인 `@`를 활용하여 절대 경로 형태로 접근합니다.\n  * *예시:* `import AppHeader from '@/components/AppHeader'` (상대 경로 `../../components` 지양)\n\n---\n\n## 1.3 Vue 3 컴포넌트 표준 작성법 (Composition API)\n기존 Options API 구조를 지양하고, **Composition API (`defineComponent` 및 `setup()`)** 방식을 표준으로 정립합니다.\n\n### 1.3.1 컴포넌트 기본 구조 (Template -> Script -> Style)\n```vue\n<template>\n  <div class=\"app-container\">\n    <!-- UI 마크업 영역 (Element-Plus 적극 활용) -->\n    <el-button type=\"primary\" @click=\"handleQuery\">{{ t('LBL_SRCH') }}</el-button>\n  </div>\n</template>\n\n<script>\nimport { defineComponent, ref, inject, onMounted } from 'vue'\nimport { useI18n } from 'vue-i18n'\n\nexport default defineComponent({\n  name: 'SampleComponent',\n  // 프레임워크 자체 dict 기능이 있을 경우 명시\n  dicts: ['sys_normal_disable'],\n\n  setup() {\n    const { t } = useI18n({ useScope: 'global' })\n    const loading = ref(false)\n\n    // 함수 정의 규칙\n    const handleQuery = () => {\n      loading.value = true\n      // 비즈니스 로직 실행\n    }\n\n    return {\n      t,\n      loading,\n      handleQuery\n    }\n  }\n})\n</script>\n\n<style lang=\"scss\" scoped>\n/* Scoped 스타일 정의 */\n.app-container {\n  margin: 20px;\n}\n</style>\n```\n\n### 1.3.2 상태 관리 및 다국어 표준\n* **반응형 상태 정의:** 데이터의 상태는 `ref`를 기본으로 사용합니다. (일관성을 위해 `reactive`보다 `ref` 사용 권장)\n* **다국어 처리:** 하드코딩 텍스트는 금지하며, `vue-i18n`의 `t()` 함수를 매핑하여 다국어 코드를 호출합니다.\n  * *예시:* `t('LBL_DICT_NM')`, `t('MSG_IPUT')`\n* **의존성 주입 (Provide/Inject):** 프레임워크 공통 유틸 함수(예: `addDateRange`, `getStupKy` 등)는 `inject`를 통하여 일관되게 주입받아 사용합니다.\n\n---\n\n## 1.4 네이밍 규칙 (Naming Convention)\n* **디렉터리 및 파일명:**\n  * `views` 하위 라우트 화면 및 컴포넌트 파일은 가급적 **소문자 시작 camelCase** 또는 **PascalCase**의 통일성을 지키도록 설계합니다. (예: `ssoLogin.vue`, `loginOkta.vue`)\n* **컴포넌트 호출 규칙 (Template Tag Name):** **kebab-case** 사용\n  * 화면 파일에서 정의되거나 가져온 컴포넌트(`*.vue`)를 `<template>` 영역에서 엘리먼트로 호출하여 사용할 때는 **kebab-case(케밥 케이스)** 명명법을 준수합니다.\n  * *예시:* `RightToolbar` 컴포넌트를 가져왔다면 템플릿 영역에서는 `<right-toolbar />` 형태로 사용합니다.\n* **변수 및 함수명:** **camelCase** 적용\n  * 이벤트 핸들러 명칭은 `handle + 동작` 형태로 작성합니다. (예: `handleQuery`, `handleAdd`, `handleDelete`)\n* **상수:** **UPPER_SNAKE_CASE** 적용\n  * 값이 변하지 않는 설정형 값은 모두 대문자와 언더바(`_`)로 기술합니다.\n\n---\n\n## 1.5 디렉토리 구조 규칙 (Directory Structure)\n`src` 폴더 하위는 역할에 따라 엄격히 구분하여 컴포넌트와 비즈니스 로직을 격리합니다.\n* `src/api/`: 백엔드 API 요청 함수들을 관리하는 곳으로 백엔드의 Controller 경로 및 리소스 단위와 매핑되도록 구조화합니다.\n* `src/components/`: 여러 화면에서 공용으로 재사용되는 공통 UI 컴포넌트를 위치시킵니다.\n* `src/composables/`: 공통 훅 및 상태 재사용을 위한 Vue Composable 함수를 정의합니다.\n* `src/store/`: 전역 상태 관리를 수행하는 Pinia/Vuex 스토어 폴더입니다.\n* `src/utils/`: HTTP 요청 모듈(`request.js`), 포맷 변환 및 암복호화와 같은 순수 유틸리티 코드를 배치합니다.\n* `src/views/`: 라우터와 직접 연결되는 도메인 화면 페이지 컴포넌트들을 위치시킵니다.\n\n---\n\n## 1.6 API 통신 규칙 (Axios & API 모듈화)\n* **Axios 공통 인스턴스 사용:** 모든 HTTP 통신은 `@/utils/request`에 정의된 공통 Axios 인스턴스를 import하여 수행합니다.\n  * *예시:* `import request from '@/utils/request'`\n* *",
+    "tags": [
+      "vue",
+      "규칙",
+      "import",
+      "api",
+      "src",
+      "컴포넌트"
+    ],
+    "ts": 1782529760259,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602609876",
+    "text": "# 2. Frontend\n# 2. Frontend\n## 2-1. 모달 팝업(레이어)\n\n### 2-1-1. 개요\n\n이 컴포넌트는 Vue.js와 Element Plus 라이브러리의 `el-dialog` 컴포넌트를 사용하여 모달 팝업(레이어 다이얼로그)을 구현하는 예제입니다.\n\n주요 기능 및 제어 파라미터는 다음과 같습니다.\n\n#### 2-1-1-1. 팝업 크기 분류 및 클래스 정의\n\n- **Small (W500px H600px)**: `class=\"small\"` 설정이 필요합니다.\n- **Medium (W800px H680px)**: 기본 값이며 별도의 클래스 추가가 필요 없습니다.\n- **Large (W1200px H840px)**: `class=\"large\"` 설정이 필요하며, `:modal=\"false\"` 속성이 권장됩니다.\n- **Extra Large (W1600px H880px)**: `class=\"extra\"` 설정이 필요하며, `:modal=\"false\"` 속성이 권장됩니다.\n\n#### 2-1-1-2. 특수 목적 팝업 (드래그 및 메뉴 클릭 가능 팝업)\n- 위치 이동(드래그)이 가능하며 팝업 밖의 본문(메뉴 등)도 클릭할 수 있는 팝업 설정 시:\n  - `modal-class=\"dialog-clickable\"` 속성을 반드시 추가합니다.\n  - `draggable`, `overflow`, `:modal=\"false\"`, `:close-on-click-modal=\"false\"` 설정을 병행합니다.\n  - 이 경우 `align-center` 속성은 제외합니다.\n\n---\n\n### 2-1-2. 코드 설명\n\n#### 2-1-2-1. 템플릿(HTML) 선언 예제\n\n```html\n<!-- 기본 (Medium) 팝업 창 -->\n<el-dialog v-model=\"dialogVisible\" title=\"Popup 800 (Medium)\" align-center>\n  <p>class를 추가하지 않으면 가로 기본 800으로 설정됩니다.</p>\n  <template #footer>\n    <div class=\"dialog-footer\">\n      <el-button type=\"primary\" size=\"large\" @click=\"dialogVisible = false\">닫기</el-button>\n      <el-button type=\"success\" size=\"large\">저장</el-button>\n    </div>\n  </template>\n</el-dialog>\n\n<!-- 위치 이동 및 페이지 클릭이 가능한 팝업창 (드래그 가능) -->\n<el-dialog \n  title=\"메뉴 클릭가능 Popup\"\n  class=\"large\"\n  modal-class=\"dialog-clickable\"\n  draggable\n  overflow\n  :modal=\"false\"\n  :close-on-click-modal=\"false\" \n>\n  <p>이 팝업은 modal-class=\"dialog-clickable\"과 draggable 속성이 적용되어 화면 내에서 이동 가능합니다.</p>\n  <template #footer>\n    <div class=\"dialog-footer\">\n      <el-button type=\"primary\" size=\"large\" @click=\"handleClose\">닫기</el-button>\n      <el-button type=\"success\" size=\"large\" @click=\"submitForm\">저장</el-button>\n    </div>\n  </template>\n</el-dialog>\n```\n\n#### 2-1-2-2. 주요 API 및 속성 설명\n\n- `v-model / :model-value`: 팝업의 표시 여부 바인딩 (Boolean)\n- `title`: 팝업 헤더 타이틀 문구\n- `align-center`: 화면 정가운데에 팝업을 위치시킬 때 설정\n- `draggable`: 헤더 드래그를 통해 팝업 위치 변경 지원 여부\n- `overflow`: 콘텐츠가 팝업 창 크기를 벗어날 때 내부 스크롤바 제어\n- `:modal`: 배경 어두운 딤드(Dim) 처리 여부\n- `:close-on-click-modal`: 배경 영역 클릭 시 팝업을 닫을지 여부 설정\n\n---\n\n### 2-1-3. 참고자료\n\n- [Element Plus Dialog Component](https://element-plus.org/en-US/component/dialog.html) - Element Plus 공식 다이얼로그 도큐먼트\n\n## 2-2. 메뉴 검색기능\n\n### 2-2-1. 개요\n\n이 컴포넌트는 사이드바 또는 헤더 영역에서 사용자가 전체 메뉴 리스트를 검색하고, 최근 검색 이력을 기반으로 빠르게 메뉴로 이동할 수 있도록 지원하는 메뉴 자동완성(Autocomplete) 검색 기능입니다.\n\n주요 기능은 다음과 같습니다.\n\n#### 2-2-1-1. 주요 라이브러리 및 API\n\n- `el-autocomplete`: Element Plus의 자동완성 입력 컴포넌트\n- `@/api/menu`: 메뉴 데이터 조회(`listMenu`) 및 최근 검색어 등록/조회(`addMenuSrch`, `listMenuSrch`) API\n- `vue-router`: 메뉴 선택 시 해당 URL 경로로 SPA 라우팅 이동 처리\n\n#### 2-2-1-2. 최근 검색어(Recent Searches) 및 실시간 필터링\n- 입력 필드가 비어있을 때는 사용자의 최근 검색 이력(최대 N개)을 노출합니다.\n- 검색어를 입력하면 전역 메뉴 리스트 중 입력 단어가 포함된 메뉴 경로를 실시간 필터링하여 매칭 결과를 표시합니다.\n- 검색 결과 목록에서 입력된 검색어와 매칭되는 부분은 `<span class=\"highlight\">` 태그를 통해 하이라이트 처리됩니다.\n\n---\n\n### 2-2-2. 코드 설명\n\n#### 2-2-2-1. 템플릿(HTML) 구현 예제\n\n```html\n<div class=\"search-wrap\">\n  <el-autocomplete\n    ref=\"autocompleteRef\"\n    v-if=\"!collapse\"\n    class=\"inp-search\"\n    :popper-class=\"!hasSuggestions ? 'inp-search-no-data' : ''\"\n    v-model=\"queryString\"\n    :fetch-suggestions=\"querySearchAsync\"\n    placeholder=\"검색\"\n    @focus=\"handleFocus\"\n    @select=\"handleSelect\"\n    @keydown=\"handleKeydown\"\n    clearable\n  >\n    <template #prefix>\n      <el-icon :size=\"24\"><Search /></el-icon>\n    </template>\n    <template #default=\"{ item }\">\n      <!-- 매칭되는 단어가 있을 시 하이라이트 처리하여 표시 -->\n      <div v-if=\"hasSuggestions\" v-html=\"highlightQuery(item.value)\" />\n      <div v-if=\"!hasSuggestions\" class=\"no-data\" v-html=\"item.value\" />\n    </template>\n  </el-autocomplete>\n</div>\n```\n\n#### 2-2-2-2. 데이터 필터링 및 비동기 조회 Script (Composition API)\n\n```javascript\nimport { ref, onBeforeMount } from 'vue';\nimport router from '@/router';\nimport { listMenu, listMenuSrch, addMenuSrch } from '@/api/menu';\n\nconst queryString = ref('');\nconst menuList = ref([]);        // 전체 메뉴 목록\nconst recentSrchList = ref([]);  // 최근 검색 목록\nconst hasSuggestions = ref(false",
+    "tags": [
+      "class",
+      "dialog",
+      "팝업",
+      "modal",
+      "메뉴",
+      "large"
+    ],
+    "ts": 1782529760260,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  },
+  {
+    "id": "n17825297602608359",
+    "text": "# 1. Git Branch 워크플로우\n차세대 프로젝트의 소스 코드 형상 관리 및 배포 안정성을 확보하기 위한 **Git Branch 전략**을 정의합니다. 엔터프라이즈 환경에서 검증된 **Git Flow** 모델을 기반으로 하되, 지속적 통합/배포(CI/CD) 효율성을 극대화할 수 있도록 간소화된 표준 가이드를 제시합니다.\n\n---\n\n# 1. Git Branch 워크플로우\n\n```mermaid\ngitGraph\n    commit id: \"Initial Commit\"\n    branch develop\n    checkout develop\n    commit id: \"develop init\"\n    \n    branch feature/confluence_id/menu-search\n    checkout feature/confluence_id/menu-search\n    commit id: \"feat: 메뉴 검색 API 개발\"\n    commit id: \"feat: 자동완성 UI 개발\"\n    \n    checkout develop\n    merge feature/confluence_id/menu-search id: \"Merge PR #1\"\n    \n    branch release/v1.0.0\n    checkout release/v1.0.0\n    commit id: \"chore: release v1.0.0 설정\"\n    commit id: \"fix: 버그 수정 및 안정화\"\n    \n    checkout develop\n    merge release/v1.0.0 id: \"Sync develop\"\n    \n    checkout main\n    merge release/v1.0.0 tag: \"v1.0.0\" id: \"Deploy Production\"\n    \n    branch hotfix/confluence_id/login-error\n    checkout hotfix/confluence_id/login-error\n    commit id: \"fix: 로그인 세션 만료 에러 수정\"\n    \n    checkout main\n    merge hotfix/confluence_id/login-error tag: \"v1.0.1\" id: \"Deploy Hotfix\"\n    \n    checkout develop\n    merge hotfix/confluence_id/login-error id: \"Sync develop (Hotfix)\"\n```\n\n---\n\n# 2. 주요 브랜치 정의 및 역할\n\n| 브랜치 분류      | 명명 규칙 (Naming Convention)                | 설명 / 역할                                                                                                       | 생명 주기           | 대상 서버             |\n| :---------- | :--------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :-------------- | :---------------- |\n| **main**    | `main`                                   | 운영(Production) 환경에 배포되는 가장 안정적인 브랜치입니다. 엄격한 테스트를 거친 릴리스 버전만 병합됩니다.                                            | 영구적             | 운영 (Production)   |\n| **develop** | `develop`                                | 다음 출시 버전을 위해 개발된 기능들이 통합되는 브랜치입니다. 개발 서버(Dev)의 자동 배포 대상이 됩니다.                                                 | 영구적             | 개발 (Development)  |\n| **feature** | `feature/{confluence_id}/{feature-name}` | 신규 기능 개발 또는 버그 수정을 개별적으로 진행하는 개발용 브랜치입니다. `develop`에서 분기하며, 개발 완료 후 Pull Request(PR)를 통해 `develop`으로 병합됩니다.   | 임시 (병합 후 삭제)    | 로컬 / 개발           |\n| **release** | `release/v{version}`                     | 배포 및 검증(QA)을 준비하기 위한 브랜치입니다. `develop`에서 분기하며, 스테이징(Staging) 환경에 배포하여 테스트를 거친 후 `main`과 `develop`으로 최종 병합됩니다. | 임시 (배포 완료 후 삭제) | 스테이징 (Staging/QA) |\n| **hotfix**  | `hotfix/{confluence_id}/{hotfix-name}`   | 운영 서버 배포 후 발생한 긴급 장애/버그를 즉시 패치하기 위한 브랜치입니다. `main`에서 분기하며, 수정 완료 후 `main`과 `develop` 모두에 각각 반영합니다.            | 임시 (패치 완료 후 삭제) | 운영 / 개발           |\n\n---\n\n# 3. 개발 및 병합 프로세스 (Step-by-Step)\n\n## Step 1. 기능 개발 시작 (`feature`)\n* 개발자는 `develop` 브랜치를 최신화한 후 개별 기능 브랜치를 생성합니다.\n  ```bash\n  git checkout develop\n  git pull origin develop\n  git checkout -b feature/confluence_id/menu-autocomplete\n  ```\n\n## Step 2. 로컬 개발 및 커밋\n* [개발 표준 가이드](./2.%20개발%20표준%20가이드/2.%20frontend/개발%20표준%20가이드.md)의 Commit Message 표준을 준수하여 로컬 개발을 진행합니다.\n  ```bash\n  git commit -m \"feat: 메뉴 검색 키워드 하이라이트 기능 구현\"\n  ```\n\n## Step 3. 원격 Push 및 Pull Request (PR) 생성\n* 원격 저장소에 브랜치를 Push한 후, GitLab/GitHub에서 `develop` 브랜치를 대상으로 Pull Request를 작성합니다.\n  ```bash\n  git push origin feature/confluence_id/menu-autocomplete\n  ```\n* **동료 리뷰(Code Review)** 와 빌드/테스트 자동 검증(CI) 통과 후 Merge가 승인됩니다.\n\n## Step 4. 병합 (Merge) 및 브랜치 삭제\n* `develop` 브랜치 병합 시 커밋 히스토리를 깔끔하게 유지하기 위해 **Squash and Merge** 방식을 권장합니다. \n* 원격 및 로컬의 임시 feature 브랜치는 병합 즉시 삭제합니다.\n\n---\n\n# 4. 배포 및 검증 프로세스\n\n1. **상시 배포 (개발 환경):** `develop` 브랜치에 코드가 병합될 때마다 CI/CD 파이프라인이 동작하여 개발 서버에 자동으로 배포됩니다.\n2. **정기 배포 (스테이징 및 운영):**\n   * 기능 테스트가 완료되면 `develop`에서 `release/vX.Y.Z` 브랜치를 분기하여 스테이징 서버에 배포하고 QA를 진행합니다.\n   * QA 도중 발견된 버그는 `release` 브랜치 내에서 직접 수정 후 커밋합니다.\n   * 최종 검증 완료 후, `release` 브랜치를 `main` 브랜치로 병합(Merge Commit 방식)하여 운영 서버에 배포하고 해당 커밋에 **버전 태그(Tag)**를 생성합니다.\n   * 수정된 내용은 반드시 `develop` 브랜치에도 역병합(Sync)을 수행합니다.\n\n---\n\n# 5. Commit Messag",
+    "tags": [
+      "develop",
+      "개발",
+      "commit",
+      "checkout",
+      "confluence",
+      "feature"
+    ],
+    "ts": 1782529760260,
+    "category": "coding",
+    "source": "me",
+    "verified": true
+  }
+]
